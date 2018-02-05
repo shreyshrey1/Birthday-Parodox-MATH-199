@@ -1,0 +1,169 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,"Monday, Apr 3",boxscore,SEA,@,HOU,L,0,3,,0-1,3,1,Keuchel,Hernandez,Giles,2:29,N,"41,678",-
+2,"Tuesday, Apr 4",boxscore,SEA,@,HOU,L,1,2,,0-2,4,2,McCullers,Iwakuma,Giles,2:41,N,"21,406",--
+3,"Wednesday, Apr 5",boxscore,SEA,@,HOU,L-wo,3,5,13,0-3,4,3,Peacock,De Jong,,4:25,N,"20,303",---
+4,"Thursday, Apr 6",boxscore,SEA,@,HOU,W,4,2,,1-3,4,2,Altavilla,Giles,Diaz,2:57,N,"18,362",+
+5,"Friday, Apr 7",boxscore,SEA,@,LAA,L,1,5,,1-4,5,2,Chavez,Gallardo,,2:56,N,"43,911",-
+6,"Saturday, Apr 8",boxscore,SEA,@,LAA,L,4,5,,1-5,5,3,Ramirez,Scribner,Bedrosian,3:05,N,"42,668",--
+7,"Sunday, Apr 9",boxscore,SEA,@,LAA,L-wo,9,10,,1-6,5,4,Bailey,Diaz,,3:27,D,"37,175",---
+8,"Monday, Apr 10",boxscore,SEA,,HOU,W,6,0,,2-6,5,3.5,Paxton,Morton,,2:56,D,"44,856",+
+9,"Tuesday, Apr 11",boxscore,SEA,,HOU,L,5,7,,2-7,5,4.5,Musgrove,Miranda,,3:29,N,"18,527",-
+10,"Wednesday, Apr 12",boxscore,SEA,,HOU,L,5,10,,2-8,5,4.5,Peacock,Altavilla,,3:12,N,"14,479",--
+11,"Friday, Apr 14",boxscore,SEA,,TEX,W,2,1,,3-8,5,4,Hernandez,Leclerc,Diaz,3:05,N,"41,855",+
+12,"Saturday, Apr 15",boxscore,SEA,,TEX,W,5,0,,4-8,5,4,Paxton,Cashner,,2:24,N,"34,927",++
+13,"Sunday, Apr 16",boxscore,SEA,,TEX,W-wo,8,7,,5-8,4,3.5,Diaz,Dyson,,3:39,D,"19,678",+++
+14,"Monday, Apr 17",boxscore,SEA,,MIA,W,6,1,,6-8,2,3.5,Miranda,Koehler,,2:31,N,"16,990",++++
+15,"Tuesday, Apr 18",boxscore,SEA,,MIA,L,0,5,,6-9,4,3.5,Chen,Gallardo,,2:33,N,"16,126",-
+16,"Wednesday, Apr 19",boxscore,SEA,,MIA,W,10,5,,7-9,3,3.5,Hernandez,Volquez,,3:32,D,"27,147",+
+17,"Thursday, Apr 20",boxscore,SEA,@,OAK,L,6,9,,7-10,3,4.5,Dull,Scribner,,3:09,N,"10,707",-
+18,"Friday, Apr 21",boxscore,SEA,@,OAK,L,1,3,,7-11,4,5.5,Manaea,Iwakuma,Casilla,2:51,N,"15,255",--
+19,"Saturday, Apr 22",boxscore,SEA,@,OAK,L,3,4,,7-12,5,5.5,Cotton,Miranda,Madson,3:07,D,"20,722",---
+20,"Sunday, Apr 23",boxscore,SEA,@,OAK,W,11,1,,8-12,4,5.5,Gallardo,Triggs,,3:11,D,"24,165",+
+21,"Tuesday, Apr 25",boxscore,SEA,@,DET,L,9,19,,8-13,5,6.5,Zimmermann,Hernandez,,3:43,N,"22,728",-
+22,"Wednesday, Apr 26",boxscore,SEA,@,DET,W,8,0,,9-13,5,5.5,Paxton,Norris,,3:18,N,"23,327",+
+23,"Thursday, Apr 27",boxscore,SEA,@,DET,W,2,1,,10-13,5,4.5,Zych,Rodriguez,Diaz,3:22,D,"25,325",++
+24,"Friday, Apr 28",boxscore,SEA,@,CLE,W,3,1,,11-13,3,4.5,Miranda,Carrasco,Diaz,2:36,N,"20,842",+++
+25,"Saturday, Apr 29",boxscore,SEA,@,CLE,L,3,4,,11-14,5,4.5,Salazar,Gallardo,Allen,2:42,D,"21,221",-
+26,"Sunday, Apr 30",boxscore,SEA,@,CLE,L,4,12,,11-15,5,5.5,Tomlin,De Jong,,2:58,D,"21,824",--
+Gm#,May,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+27,"Tuesday, May 2",boxscore,SEA,,LAA,L,4,6,11,11-16,4,7,Guerra,Pazos,,4:40,N,"15,080",---
+28,"Wednesday, May 3",boxscore,SEA,,LAA,W,8,7,,12-16,3,7,Machi,Parker,Diaz,3:19,N,"13,799",+
+29,"Thursday, May 4",boxscore,SEA,,LAA,W,11,3,,13-16,3,6,Miranda,Meyer,,2:53,N,"15,915",++
+30,"Friday, May 5",boxscore,SEA,,TEX,L,1,3,13,13-17,3,7,Bush,Pagan,Claudio,5:02,N,"26,938",-
+31,"Saturday, May 6",boxscore,SEA,,TEX,W,8,2,,14-17,3,6,Pazos,Perez,,3:12,N,"36,044",+
+32,"Sunday, May 7",boxscore,SEA,,TEX,W,4,3,,15-17,3,6,Rzepczynski,Dyson,Diaz,3:09,D,"32,518",++
+33,"Tuesday, May 9",boxscore,SEA,@,PHI,W,10,9,,16-17,2,6,Vincent,Neris,Diaz,3:48,N,"31,715",+++
+34,"Wednesday, May 10",boxscore,SEA,@,PHI,W,11,6,,17-17,2,6,Zych,Benoit,,3:40,D,"26,697",++++
+35,"Thursday, May 11",boxscore,SEA,@,TOR,L,2,7,,17-18,2,7,Estrada,De Jong,,2:45,N,"29,120",-
+36,"Friday, May 12",boxscore,SEA,@,TOR,L,0,4,,17-19,2,8,Biagini,Bergman,,2:36,N,"32,865",--
+37,"Saturday, May 13",boxscore,SEA,@,TOR,L,2,7,,17-20,3,8.5,Leone,Vincent,,3:25,D,"42,346",---
+38,"Sunday, May 14",boxscore,SEA,@,TOR,L-wo,2,3,,17-21,4,9,Tepera,Diaz,,3:17,D,"42,030",----
+39,"Monday, May 15",boxscore,SEA,,OAK,W,6,5,,18-21,4,9,Gallardo,Manaea,Zych,3:14,N,"15,431",+
+40,"Tuesday, May 16",boxscore,SEA,,OAK,L,6,9,,18-22,4,10,Madson,Cishek,,3:25,N,"13,955",-
+41,"Wednesday, May 17",boxscore,SEA,,OAK,W,4,0,,19-22,4,10,Bergman,Hahn,,2:39,N,"14,117",+
+42,"Thursday, May 18",boxscore,SEA,,CHW,W-wo,5,4,,20-22,4,9.5,Vincent,Jennings,,3:02,N,"17,757",++
+43,"Friday, May 19",boxscore,SEA,,CHW,L,1,2,10,20-23,4,9.5,Robertson,Zych,,2:46,N,"32,371",-
+44,"Saturday, May 20",boxscore,SEA,,CHW,L,1,16,,20-24,5,9.5,Pelfrey,Gallardo,,2:52,N,"33,801",--
+45,"Sunday, May 21",boxscore,SEA,,CHW,L,1,8,,20-25,5,9.5,Holland,Heston,,2:46,D,"36,782",---
+46,"Tuesday, May 23",boxscore,SEA,@,WSN,L,1,10,,20-26,5,11,Ross,Bergman,,2:28,N,"29,650",----
+47,"Wednesday, May 24",boxscore,SEA,@,WSN,L,1,5,,20-27,5,11,Roark,Gaviglio,,2:28,N,"29,223",-----
+48,"Thursday, May 25",boxscore,SEA,@,WSN,W,4,2,,21-27,5,11,Miranda,Turner,Diaz,3:18,D,"18,881",+
+49,"Friday, May 26",boxscore,SEA,@,BOS,L,0,3,,21-28,5,12,Rodriguez,Gallardo,Kimbrel,3:11,N,"35,080",-
+50,"Saturday, May 27",boxscore,SEA,@,BOS,L,0,6,,21-29,5,13,Johnson,Whalen,,2:23,D,"36,985",--
+51,"Sunday, May 28",boxscore,SEA,@,BOS,W,5,0,,22-29,5,13,Bergman,Porcello,,3:14,D,"37,174",+
+52,"Monday, May 29",boxscore,SEA,@,COL,W,6,5,,23-29,4,13,Gaviglio,Chatwood,Diaz,3:25,D,"40,298",++
+53,"Tuesday, May 30",boxscore,SEA,@,COL,W,10,4,,24-29,4,13,Miranda,Anderson,,3:11,N,"33,258",+++
+54,"Wednesday, May 31",boxscore,SEA,,COL,W,5,0,,25-29,4,13,Paxton,Senzatela,,2:46,N,"16,750",++++
+Gm#,June,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+55,"Thursday, Jun 1",boxscore,SEA,,COL,L,3,6,,25-30,4,13.5,Freeland,Gallardo,Holland,3:28,D,"21,536",-
+56,"Friday, Jun 2",boxscore,SEA,,TBR,W,12,4,,26-30,4,13.5,Bergman,Odorizzi,,3:09,N,"27,933",+
+57,"Saturday, Jun 3",boxscore,SEA,,TBR,W,9,2,,27-30,3,13.5,Gaviglio,Cobb,,2:59,N,"26,995",++
+58,"Sunday, Jun 4",boxscore,SEA,,TBR,W,7,1,,28-30,2,13.5,Miranda,Ramirez,,2:41,D,"28,579",+++
+59,"Tuesday, Jun 6",boxscore,SEA,,MIN,W,12,3,,29-30,2,13,Paxton,Santiago,,3:26,N,"18,166",++++
+60,"Wednesday, Jun 7",boxscore,SEA,,MIN,W-wo,6,5,,30-30,2,12,Diaz,Kintzler,,2:43,N,"15,732",+++++
+61,"Thursday, Jun 8",boxscore,SEA,,MIN,L,1,2,,30-31,2,13,Gibson,Bergman,Kintzler,2:51,N,"15,621",-
+62,"Friday, Jun 9",boxscore,SEA,,TOR,W,4,2,,31-31,2,12,Cloyd,Biagini,Diaz,2:53,N,"33,518",+
+63,"Saturday, Jun 10",boxscore,SEA,,TOR,L,2,4,,31-32,2,13,Stroman,Zych,Osuna,2:44,N,"45,480",-
+64,"Sunday, Jun 11",boxscore,SEA,,TOR,L,0,4,,31-33,3,13,Happ,Paxton,Osuna,3:01,D,"41,137",--
+65,"Monday, Jun 12",boxscore,SEA,@,MIN,W,14,3,,32-33,2,12,Gallardo,Mejia,,3:22,N,"16,996",+
+66,"Tuesday, Jun 13",boxscore,SEA,@,MIN,L,7,20,,32-34,4,12,Gibson,Bergman,,3:04,N,"17,922",-
+67,"Wednesday, Jun 14",boxscore,SEA,@,MIN,W,6,4,,33-34,3,12,Gaviglio,Santana,Diaz,3:06,N,"22,283",+
+68,"Thursday, Jun 15",boxscore,SEA,@,MIN,L,2,6,,33-35,4,12.5,Berrios,Miranda,,2:45,D,"24,464",-
+69,"Friday, Jun 16",boxscore,SEA,@,TEX,L,4,10,,33-36,4,12.5,Ross,Paxton,,3:07,N,"33,960",--
+70,"Saturday, Jun 17",boxscore,SEA,@,TEX,L,4,10,,33-37,4,13.5,Perez,Gallardo,,2:54,D,"35,928",---
+71,"Sunday, Jun 18",boxscore,SEA,@,TEX,W,7,3,,34-37,4,12.5,Bergman,Darvish,,3:43,D,"31,552",+
+72,"Monday, Jun 19",boxscore,SEA,,DET,W,6,2,,35-37,4,12.5,Pazos,Wilson,,3:16,N,"21,517",++
+73,"Tuesday, Jun 20",boxscore,SEA,,DET,W-wo,5,4,10,36-37,4,12.5,Cishek,Wilson,,3:42,N,"15,063",+++
+74,"Wednesday, Jun 21",boxscore,SEA,,DET,W,7,5,,37-37,2,12.5,Zych,Greene,Diaz,3:16,N,"18,526",++++
+75,"Thursday, Jun 22",boxscore,SEA,,DET,W,9,6,,38-37,2,12.5,Moore,Norris,Cishek,2:58,N,"18,736",+++++
+76,"Friday, Jun 23",boxscore,SEA,,HOU,W,13,3,,39-37,2,11.5,Hernandez,Musgrove,Gallardo,3:17,N,"31,783",++++++
+77,"Saturday, Jun 24",boxscore,SEA,,HOU,L,2,5,,39-38,2,12.5,McCullers,Gaviglio,,3:09,N,"29,820",-
+78,"Sunday, Jun 25",boxscore,SEA,,HOU,L,2,8,,39-39,4,13.5,Feliz,Miranda,,3:21,D,"33,010",--
+79,"Tuesday, Jun 27",boxscore,SEA,,PHI,L,2,8,,39-40,4,13.5,Nola,Paxton,,3:02,N,"22,648",---
+80,"Wednesday, Jun 28",boxscore,SEA,,PHI,L,4,5,,39-41,4,14.5,Pinto,Diaz,Neris,3:24,D,"29,505",----
+81,"Friday, Jun 30",boxscore,SEA,@,LAA,W,10,0,,40-41,3,14,Miranda,Bridwell,,2:45,N,"40,059",+
+Gm#,July,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+82,"Saturday, Jul 1",boxscore,SEA,@,LAA,L,0,4,,40-42,4,15,Nolasco,Gaviglio,,2:32,N,"44,644",-
+83,"Sunday, Jul 2",boxscore,SEA,@,LAA,W,5,3,,41-42,3,15,Paxton,Chavez,Diaz,3:10,D,"39,279",+
+84,"Monday, Jul 3",boxscore,SEA,,KCR,L,1,3,,41-43,3,15.5,Kennedy,Moore,Soria,2:28,N,"35,789",-
+85,"Tuesday, Jul 4",boxscore,SEA,,KCR,L,3,7,,41-44,3,16.5,Duffy,Hernandez,,2:55,D,"25,555",--
+86,"Wednesday, Jul 5",boxscore,SEA,,KCR,L,6,9,10,41-45,4,17.5,Minor,Pazos,Herrera,3:34,N,"15,157",---
+87,"Thursday, Jul 6",boxscore,SEA,,OAK,L,4,7,,41-46,4,17.5,Blackburn,Gaviglio,,2:56,N,"18,368",----
+88,"Friday, Jul 7",boxscore,SEA,,OAK,W,7,2,,42-46,4,17.5,Paxton,Manaea,,2:39,N,"22,213",+
+89,"Saturday, Jul 8",boxscore,SEA,,OAK,L,3,4,,42-47,4,17.5,Doolittle,Diaz,Casilla,2:54,N,"28,694",-
+90,"Sunday, Jul 9",boxscore,SEA,,OAK,W,4,0,,43-47,4,17.5,Hernandez,Gossett,,2:39,D,"32,661",+
+91,"Friday, Jul 14",boxscore,SEA,@,CHW,W,4,2,,44-47,3,17.5,Paxton,Shields,Diaz,2:50,N,"20,311",++
+92,"Saturday, Jul 15",boxscore,SEA,@,CHW,W,4,3,,45-47,3,16.5,Hernandez,Swarzak,Diaz,3:26,N,"21,743",+++
+93,"Sunday, Jul 16",boxscore,SEA,@,CHW,W,7,6,10,46-47,2,16.5,Vincent,Beck,Diaz,3:22,D,"24,502",++++
+94,"Monday, Jul 17",boxscore,SEA,@,HOU,W,9,7,10,47-47,2,15.5,Gallardo,Sipp,Diaz,3:49,N,"24,701",+++++
+95,"Tuesday, Jul 18",boxscore,SEA,@,HOU,L,2,6,,47-48,2,16.5,Peacock,Gaviglio,Gregerson,3:02,N,"27,111",-
+96,"Wednesday, Jul 19",boxscore,SEA,@,HOU,W,4,1,,48-48,2,15.5,Paxton,Morton,Diaz,2:51,D,"35,191",+
+97,"Thursday, Jul 20",boxscore,SEA,,NYY,L,1,4,,48-49,2,16,Severino,Hernandez,,3:14,N,"35,175",-
+98,"Friday, Jul 21",boxscore,SEA,,NYY,L,1,5,,48-50,2,17,Sabathia,Moore,,2:50,N,"34,073",--
+99,"Saturday, Jul 22",boxscore,SEA,,NYY,W-wo,6,5,10,49-50,2,17,Zych,Warren,,3:28,N,"46,197",+
+100,"Sunday, Jul 23",boxscore,SEA,,NYY,L,4,6,,49-51,2,17,Green,Pazos,Chapman,3:13,D,"38,503",-
+101,"Monday, Jul 24",boxscore,SEA,,BOS,W,4,0,,50-51,2,17,Paxton,Rodriguez,,2:40,N,"29,262",+
+102,"Tuesday, Jul 25",boxscore,SEA,,BOS,W-wo,6,5,13,51-51,2,17,Zych,Fister,,4:59,N,"28,992",++
+103,"Wednesday, Jul 26",boxscore,SEA,,BOS,L,0,4,,51-52,2,17,Sale,Moore,Kimbrel,2:53,D,"39,797",-
+104,"Friday, Jul 28",boxscore,SEA,,NYM,L,5,7,,51-53,2,18,Blevins,Phelps,Reed,3:21,N,"34,543",--
+105,"Saturday, Jul 29",boxscore,SEA,,NYM,W,3,2,,52-53,2,17,Gallardo,deGrom,Diaz,3:12,D,"33,519",+
+106,"Sunday, Jul 30",boxscore,SEA,,NYM,W,9,1,,53-53,2,16,Paxton,Lugo,,2:55,D,"31,162",++
+107,"Monday, Jul 31",boxscore,SEA,@,TEX,W,6,4,,54-53,2,16,Phelps,Claudio,Diaz,3:16,N,"22,294",+++
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+108,"Tuesday, Aug 1",boxscore,SEA,@,TEX,W,8,7,,55-53,2,15,Lawrence,Martinez,Diaz,3:30,N,"21,200",++++
+109,"Wednesday, Aug 2",boxscore,SEA,@,TEX,L,1,5,,55-54,2,15,Cashner,Miranda,,2:53,N,"23,041",-
+110,"Thursday, Aug 3",boxscore,SEA,@,KCR,L,4,6,,55-55,2,15,Buchter,Pagan,Herrera,3:01,N,"29,228",--
+111,"Friday, Aug 4",boxscore,SEA,@,KCR,W,5,2,,56-55,2,15,Paxton,Hammel,Diaz,2:47,N,"38,130",+
+112,"Sunday, Aug 6 (1)",boxscore,SEA,@,KCR,W,8,7,,57-55,2,15,Pazos,Duffy,Diaz,3:03,D,,++
+113,"Sunday, Aug 6 (2)",boxscore,SEA,@,KCR,L,1,9,,57-56,2,15,Junis,Ramirez,,2:39,D,"29,432",-
+114,"Tuesday, Aug 8",boxscore,SEA,@,OAK,W,7,6,10,58-56,2,14,Rzepczynski,Smith,Diaz,3:20,N,"12,354",+
+115,"Wednesday, Aug 9",boxscore,SEA,@,OAK,W,6,3,,59-56,2,13,Pagan,Cotton,Diaz,2:58,D,"14,989",++
+116,"Thursday, Aug 10",boxscore,SEA,,LAA,L,3,6,,59-57,2,13,Norris,Diaz,Bedrosian,3:14,N,"35,021",-
+117,"Friday, Aug 11",boxscore,SEA,,LAA,L,5,6,,59-58,2,13,Middleton,Pazos,Petit,3:04,N,"38,206",--
+118,"Saturday, Aug 12",boxscore,SEA,,LAA,L,3,6,,59-59,3,13,Middleton,Zych,Bedrosian,3:11,N,"45,388",---
+119,"Sunday, Aug 13",boxscore,SEA,,LAA,L,2,4,,59-60,3,14,Bridwell,Miranda,Middleton,2:59,D,"43,199",----
+120,"Monday, Aug 14",boxscore,SEA,,BAL,L,3,11,,59-61,3,14,Gausman,Gallardo,,3:06,N,"17,973",-----
+121,"Tuesday, Aug 15",boxscore,SEA,,BAL,W,3,1,,60-61,3,14,Albers,Miley,Diaz,2:48,N,"24,927",+
+122,"Wednesday, Aug 16",boxscore,SEA,,BAL,W,7,6,,61-61,3,14,Zych,Jimenez,Rzepczynski,3:13,D,"33,448",++
+123,"Friday, Aug 18",boxscore,SEA,@,TBR,W,7,1,,62-61,3,13.5,Ramirez,Pruitt,,2:53,N,"11,501",+++
+124,"Saturday, Aug 19",boxscore,SEA,@,TBR,W,7,6,,63-61,3,13.5,Miranda,Odorizzi,Diaz,3:15,N,"12,218",++++
+125,"Sunday, Aug 20",boxscore,SEA,@,TBR,L,0,3,,63-62,3,13.5,Snell,Gallardo,Colome,2:44,D,"13,354",-
+126,"Monday, Aug 21",boxscore,SEA,@,ATL,W,6,5,,64-62,3,13,Albers,Foltynewicz,Diaz,2:59,N,"21,284",+
+127,"Tuesday, Aug 22",boxscore,SEA,@,ATL,L,0,4,,64-63,3,13,Sims,Gonzales,,3:01,N,"22,947",-
+128,"Wednesday, Aug 23",boxscore,SEA,@,ATL,W,9,6,,65-63,3,13,Phelps,Johnson,Diaz,3:07,N,"23,890",+
+129,"Friday, Aug 25",boxscore,SEA,@,NYY,W,2,1,11,66-63,2,12.5,Pazos,Chapman,Diaz,3:51,N,"42,057",++
+130,"Saturday, Aug 26",boxscore,SEA,@,NYY,L,3,6,,66-64,2,12.5,Gray,Gallardo,Betances,3:25,D,"39,810",-
+131,"Sunday, Aug 27",boxscore,SEA,@,NYY,L,1,10,,66-65,2,13.5,Tanaka,Albers,,2:57,D,"40,112",--
+132,"Monday, Aug 28",boxscore,SEA,@,BAL,L,6,7,,66-66,3,14,Hart,Pagan,Britton,3:01,N,"15,106",---
+133,"Tuesday, Aug 29",boxscore,SEA,@,BAL,L,0,4,,66-67,3,14,Bundy,Ramirez,,2:26,N,"13,736",----
+134,"Wednesday, Aug 30",boxscore,SEA,@,BAL,L,7,8,,66-68,4,14,Brach,Bergman,Britton,3:07,D,"16,983",-----
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+135,"Friday, Sep 1",boxscore,SEA,,OAK,W,3,2,,67-68,4,14,Leake,Manaea,Diaz,2:32,N,"19,030",+
+136,"Saturday, Sep 2",boxscore,SEA,,OAK,W-wo,7,6,,68-68,3,14.5,Diaz,Treinen,,3:37,N,"22,245",++
+137,"Sunday, Sep 3",boxscore,SEA,,OAK,W,10,2,,69-68,3,14.5,Albers,Gossett,,3:21,D,"26,898",+++
+138,"Monday, Sep 4",boxscore,SEA,,HOU,L,2,6,,69-69,4,15.5,Keuchel,Rzepczynski,,2:53,D,"20,108",-
+139,"Tuesday, Sep 5",boxscore,SEA,,HOU,L,1,3,,69-70,4,16.5,Verlander,Pazos,Giles,3:07,N,"14,568",--
+140,"Wednesday, Sep 6",boxscore,SEA,,HOU,L,3,5,,69-71,4,17.5,Devenski,Diaz,,2:46,N,"15,104",---
+141,"Friday, Sep 8",boxscore,SEA,,LAA,W,4,3,,70-71,4,16.5,Leake,Nolasco,Diaz,3:09,N,"21,396",+
+142,"Saturday, Sep 9",boxscore,SEA,,LAA,W,8,1,,71-71,4,15,Albers,Heaney,,3:15,N,"26,248",++
+143,"Sunday, Sep 10",boxscore,SEA,,LAA,L,3,5,,71-72,4,15,Bedrosian,Vincent,Petit,2:45,D,"20,094",-
+144,"Monday, Sep 11",boxscore,SEA,@,TEX,L,3,5,,71-73,4,15.5,Hamels,Miranda,Claudio,2:43,N,"20,686",--
+145,"Tuesday, Sep 12",boxscore,SEA,@,TEX,W,10,3,,72-73,4,15.5,Gonzales,Gonzalez,,3:09,N,"20,557",+
+146,"Wednesday, Sep 13",boxscore,SEA,@,TEX,W,8,1,,73-73,3,14.5,Leake,Perez,,3:08,N,"23,083",++
+147,"Thursday, Sep 14",boxscore,SEA,@,TEX,W,10,4,,74-73,3,14.5,Albers,Cashner,,3:21,N,"21,931",+++
+148,"Friday, Sep 15",boxscore,SEA,@,HOU,L,2,5,,74-74,3,15.5,Morton,Paxton,Giles,3:12,N,"28,328",-
+149,"Saturday, Sep 16",boxscore,SEA,@,HOU,L,6,8,,74-75,3,16.5,Keuchel,Ramirez,Musgrove,3:21,D,"33,650",--
+150,"Sunday, Sep 17",boxscore,SEA,@,HOU,L,1,7,,74-76,3,17.5,Verlander,Moore,,2:50,D,"30,247",---
+151,"Tuesday, Sep 19",boxscore,SEA,,TEX,L,1,3,,74-77,4,18.5,Barnette,Vincent,Claudio,2:54,N,"17,251",----
+152,"Wednesday, Sep 20",boxscore,SEA,,TEX,L,6,8,,74-78,4,19.5,Cashner,Hernandez,Claudio,3:27,N,"15,962",-----
+153,"Thursday, Sep 21",boxscore,SEA,,TEX,L,2,4,,74-79,4,19.5,Hamels,Paxton,Kela,2:45,N,"14,849",------
+154,"Friday, Sep 22",boxscore,SEA,,CLE,W-wo,3,1,,75-79,4,19.5,Diaz,Allen,,2:23,N,"27,462",+
+155,"Saturday, Sep 23",boxscore,SEA,,CLE,L,4,11,,75-80,4,20.5,Carrasco,Moore,,3:32,D,"31,565",-
+156,"Sunday, Sep 24",boxscore,SEA,,CLE,L,2,4,,75-81,4,20.5,Kluber,Leake,Allen,2:50,D,"23,695",--
+157,"Monday, Sep 25",boxscore,SEA,@,OAK,W,7,1,,76-81,4,20.5,Hernandez,Gossett,Albers,2:22,N,"9,329",+
+158,"Tuesday, Sep 26",preview,SEA,@,OAK,10:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+159,"Wednesday, Sep 27",preview,SEA,@,OAK,3:35 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+160,"Friday, Sep 29",preview,SEA,@,LAA,10:07 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+161,"Saturday, Sep 30",preview,SEA,@,LAA,9:07 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+162,"Sunday, Oct 1",preview,SEA,@,LAA,3:07 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+Gm#,Date,,Tm,,Opp,,,,,,,,,,,,,,D/N

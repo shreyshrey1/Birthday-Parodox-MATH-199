@@ -1,0 +1,169 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,"Tuesday, Apr 4",boxscore,DET,@,CHW,W,6,3,,1-0,2,0.5,Verlander,Quintana,Rodriguez,3:30,D,"36,534",+
+2,"Thursday, Apr 6",boxscore,DET,@,CHW,L,2,11,,1-1,3,1.5,Shields,Boyd,,3:31,D,"10,842",-
+3,"Friday, Apr 7",boxscore,DET,,BOS,W,6,5,,2-1,3,1.5,Rodriguez,Hembree,,3:35,D,"45,013",+
+4,"Saturday, Apr 8",boxscore,DET,,BOS,W,4,1,,3-1,2,0.5,Zimmermann,Rodriguez,Wilson,3:05,D,"32,622",++
+5,"Sunday, Apr 9",boxscore,DET,,BOS,L,5,7,,3-2,2,1.5,Barnes,Rondon,Kimbrel,3:27,D,"33,662",-
+6,"Monday, Apr 10",boxscore,DET,,BOS,W,2,1,,4-2,2,1,Wilson,Sale,Rodriguez,2:44,D,"24,672",+
+7,"Tuesday, Apr 11",boxscore,DET,,MIN,W,2,1,,5-2,1,Tied,Boyd,Santiago,Rodriguez,2:39,D,"21,237",++
+8,"Wednesday, Apr 12",boxscore,DET,,MIN,W,5,3,,6-2,1,up 1.0,Fulmer,Gibson,Wilson,2:48,D,"23,738",+++
+9,"Thursday, Apr 13",boxscore,DET,,MIN,L,5,11,,6-3,1,Tied,Hughes,Zimmermann,Haley,3:31,D,"22,573",-
+10,"Friday, Apr 14",boxscore,DET,@,CLE,W,7,6,,7-3,1,up 1.0,Norris,Bauer,Rodriguez,4:00,N,"25,423",+
+11,"Saturday, Apr 15",boxscore,DET,@,CLE,L,6,13,,7-4,1,Tied,Kluber,Verlander,,3:36,D,"26,691",-
+12,"Sunday, Apr 16",boxscore,DET,@,CLE,W,4,1,,8-4,1,up 1.0,Boyd,Carrasco,Rodriguez,3:15,D,"17,739",+
+13,"Tuesday, Apr 18",boxscore,DET,@,TBR,L,1,5,,8-5,1,up 1.0,Andriese,Fulmer,,3:19,N,"16,265",-
+14,"Wednesday, Apr 19",boxscore,DET,@,TBR,L-wo,7,8,,8-6,1,up 1.0,Pruitt,Rodriguez,,3:44,N,"12,281",--
+15,"Thursday, Apr 20",boxscore,DET,@,TBR,L,1,8,,8-7,1,Tied,Ramirez,Norris,,3:02,D,"13,267",---
+16,"Friday, Apr 21",boxscore,DET,@,MIN,L,3,6,,8-8,2,1,Santiago,Verlander,Kintzler,2:59,N,"22,647",----
+17,"Saturday, Apr 22",boxscore,DET,@,MIN,W,5,4,,9-8,2,1,Hardy,Tonkin,Rodriguez,4:00,D,"25,719",+
+18,"Sunday, Apr 23",boxscore,DET,@,MIN,W,13,4,,10-8,1,Tied,Fulmer,Gibson,,3:17,D,"26,713",++
+19,"Tuesday, Apr 25",boxscore,DET,,SEA,W,19,9,,11-8,1,up 1.0,Zimmermann,Hernandez,,3:43,N,"22,728",+++
+20,"Wednesday, Apr 26",boxscore,DET,,SEA,L,0,8,,11-9,1,Tied,Paxton,Norris,,3:18,N,"23,327",-
+21,"Thursday, Apr 27",boxscore,DET,,SEA,L,1,2,,11-10,3,1,Zych,Rodriguez,Diaz,3:22,D,"25,325",--
+22,"Friday, Apr 28",boxscore,DET,,CHW,L,3,7,,11-11,3,1.5,Swarzak,Wilson,,3:25,N,"26,049",---
+23,"Saturday, Apr 29",boxscore,DET,,CHW,L,4,6,10,11-12,4,2.5,Robertson,Wilson,,3:36,D,"36,217",----
+24,"Sunday, Apr 30",boxscore,DET,,CHW,W,7,3,,12-12,4,2,Zimmermann,Gonzalez,,3:24,D,"26,045",+
+Gm#,May,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+25,"Monday, May 1",boxscore,DET,,CLE,W,7,1,,13-12,3,1,Norris,Bauer,,3:14,N,"22,045",++
+26,"Tuesday, May 2",boxscore,DET,,CLE,W,5,2,,14-12,2,0.5,Verlander,Kluber,Rodriguez,3:14,N,"21,799",+++
+27,"Wednesday, May 3",boxscore,DET,,CLE,L,2,3,,14-13,4,1,Carrasco,Boyd,Allen,3:03,N,"22,663",-
+28,"Friday, May 5",boxscore,DET,@,OAK,W,7,2,,15-13,2,0.5,Fulmer,Triggs,,2:54,N,"17,519",+
+29,"Saturday, May 6",boxscore,DET,@,OAK,L-wo,5,6,,15-14,3,1,Montas,Rodriguez,,3:28,N,"16,651",-
+30,"Sunday, May 7",boxscore,DET,@,OAK,L-wo,6,8,,15-15,3,2,Casilla,Rodriguez,,3:41,D,"23,227",--
+31,"Tuesday, May 9",boxscore,DET,@,ARI,W,7,3,,16-15,3,1.5,Verlander,Ray,,3:22,N,"20,445",+
+32,"Wednesday, May 10",boxscore,DET,@,ARI,L,1,7,,16-16,3,1.5,Godley,Boyd,,2:37,N,"18,897",-
+33,"Thursday, May 11",boxscore,DET,@,LAA,W,7,1,,17-16,3,1,Fulmer,Ramirez,,3:00,N,"30,207",+
+34,"Friday, May 12",boxscore,DET,@,LAA,L,0,7,,17-17,3,2,Shoemaker,Zimmermann,,3:04,N,"44,311",-
+35,"Saturday, May 13",boxscore,DET,@,LAA,W,4,3,,18-17,2,2,Wilson,Norris,Wilson,3:14,N,"40,251",+
+36,"Sunday, May 14",boxscore,DET,@,LAA,L,1,4,,18-18,3,2,Meyer,Verlander,Norris,3:09,D,"36,215",-
+37,"Tuesday, May 16",boxscore,DET,,BAL,L,11,13,13,18-19,3,2,Bleier,Rodriguez,,5:19,N,"25,109",--
+38,"Wednesday, May 17",boxscore,DET,,BAL,W,5,4,,19-19,3,1.5,Fulmer,Jimenez,Wilson,3:15,N,"29,722",+
+39,"Thursday, May 18",boxscore,DET,,BAL,W,6,5,,20-19,2,1,Zimmermann,Bundy,Wilson,2:53,D,"32,455",++
+40,"Friday, May 19",boxscore,DET,,TEX,L,3,5,,20-20,3,2,Martinez,Norris,Bush,3:23,N,"33,122",-
+41,"Saturday, May 20",boxscore,DET,,TEX,W,9,3,,21-20,3,1.5,Verlander,Griffin,,2:58,N,"35,166",+
+42,"Sunday, May 21",boxscore,DET,,TEX,L,2,5,,21-21,3,2,Darvish,Boyd,Kela,3:35,N,"24,080",-
+43,"Monday, May 22",boxscore,DET,@,HOU,L,0,1,,21-22,3,3,Devenski,Fulmer,Giles,2:45,N,"22,146",--
+44,"Tuesday, May 23",boxscore,DET,@,HOU,L,2,6,,21-23,3,4,McCullers,Zimmermann,,3:01,N,"23,179",---
+45,"Wednesday, May 24",boxscore,DET,@,HOU,W,6,3,,22-23,3,4,Greene,Devenski,,2:52,N,"26,481",+
+46,"Thursday, May 25",boxscore,DET,@,HOU,L,6,7,,22-24,3,4.5,Gregerson,Wilson,Giles,3:30,N,"25,046",-
+47,"Friday, May 26 (1)",boxscore,DET,@,CHW,L,2,8,,22-25,3,4.5,Pelfrey,Boyd,,3:42,N,"17,842",--
+48,"Saturday, May 27 (1)",boxscore,DET,@,CHW,L,0,3,,22-26,3,5,Danish,Fulmer,Robertson,2:54,D,,---
+49,"Saturday, May 27 (2)",boxscore,DET,@,CHW,W,4,3,,23-26,3,5,Farmer,Holland,,3:14,D,"26,327",+
+50,"Sunday, May 28",boxscore,DET,@,CHW,L,3,7,,23-27,4,5,Gonzalez,Zimmermann,Robertson,2:44,D,"27,578",-
+51,"Monday, May 29",boxscore,DET,@,KCR,W,10,7,,24-27,4,4,Rodriguez,Soria,Wilson,3:40,N,"28,419",+
+52,"Tuesday, May 30",boxscore,DET,@,KCR,L,0,1,,24-28,4,4,Skoglund,Verlander,Herrera,2:45,N,"21,864",-
+53,"Wednesday, May 31",boxscore,DET,@,KCR,W,6,5,,25-28,3,3,Saupold,Kennedy,Wilson,3:19,N,"24,347",+
+Gm#,June,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+54,"Friday, Jun 2",boxscore,DET,,CHW,W,15,5,,26-28,3,3.5,Fulmer,Holland,,3:01,N,"28,619",++
+55,"Saturday, Jun 3",boxscore,DET,,CHW,W,10,1,,27-28,3,2.5,Zimmermann,Gonzalez,,3:14,D,"33,188",+++
+56,"Sunday, Jun 4",boxscore,DET,,CHW,W-wo,7,4,,28-28,3,2.5,Wilson,Robertson,,4:07,D,"30,208",++++
+57,"Tuesday, Jun 6",boxscore,DET,,LAA,L,3,5,,28-29,3,2.5,Chavez,Norris,Norris,3:14,N,"24,175",-
+58,"Wednesday, Jun 7",boxscore,DET,,LAA,W,4,0,,29-29,3,1.5,Farmer,Meyer,,2:58,N,"24,958",+
+59,"Thursday, Jun 8",boxscore,DET,,LAA,L,4,11,,29-30,3,2.5,Ramirez,Fulmer,,3:24,D,"34,810",-
+60,"Friday, Jun 9",boxscore,DET,@,BOS,L,3,5,,29-31,3,3.5,Barnes,Wilson,Kimbrel,3:36,N,"36,853",--
+61,"Saturday, Jun 10",boxscore,DET,@,BOS,L,3,11,,29-32,3,4.5,Sale,Saupold,,3:39,N,"37,162",---
+62,"Sunday, Jun 11",boxscore,DET,@,BOS,W,8,3,,30-32,3,3.5,Norris,Pomeranz,,4:06,N,"35,457",+
+63,"Tuesday, Jun 13",boxscore,DET,,ARI,L,6,7,,30-33,3,4,Bradley,Wilson,Rodney,3:48,N,"25,119",-
+64,"Wednesday, Jun 14",boxscore,DET,,ARI,L,1,2,,30-34,3,4,Walker,Zimmermann,Rodney,2:45,N,"26,134",--
+65,"Thursday, Jun 15",boxscore,DET,,TBR,W-wo,5,3,,31-34,3,4,Wilson,Hunter,,3:29,N,"24,056",+
+66,"Friday, Jun 16",boxscore,DET,,TBR,W,13,4,,32-34,3,3,Norris,Ramirez,,3:05,N,"29,674",++
+67,"Saturday, Jun 17",boxscore,DET,,TBR,L,2,3,,32-35,3,3.5,Archer,Fulmer,Colome,3:23,D,"33,478",-
+68,"Sunday, Jun 18",boxscore,DET,,TBR,L,1,9,,32-36,4,4.5,Faria,Farmer,,3:05,D,"36,442",--
+69,"Monday, Jun 19",boxscore,DET,@,SEA,L,2,6,,32-37,4,5.5,Pazos,Wilson,,3:16,N,"21,517",---
+70,"Tuesday, Jun 20",boxscore,DET,@,SEA,L-wo,4,5,10,32-38,4,5.5,Cishek,Wilson,,3:42,N,"15,063",----
+71,"Wednesday, Jun 21",boxscore,DET,@,SEA,L,5,7,,32-39,4,6.5,Zych,Greene,Diaz,3:16,N,"18,526",-----
+72,"Thursday, Jun 22",boxscore,DET,@,SEA,L,6,9,,32-40,5,7.5,Moore,Norris,Cishek,2:58,N,"18,736",------
+73,"Friday, Jun 23",boxscore,DET,@,SDP,L,0,1,,32-41,5,7.5,Perdomo,Fulmer,Maurer,2:36,N,"25,477",-------
+74,"Saturday, Jun 24",boxscore,DET,@,SDP,L,3,7,,32-42,5,7.5,Yates,Greene,,2:51,N,"31,749",--------
+75,"Sunday, Jun 25",boxscore,DET,@,SDP,W,7,5,,33-42,4,7,Rondon,Maurer,Wilson,3:12,D,"29,595",+
+76,"Tuesday, Jun 27",boxscore,DET,,KCR,W,5,3,,34-42,4,6,Verlander,Strahm,Wilson,3:14,N,"29,488",++
+77,"Wednesday, Jun 28",boxscore,DET,,KCR,L,2,8,,34-43,4,7,Kennedy,Norris,,2:46,N,"29,614",-
+78,"Thursday, Jun 29",boxscore,DET,,KCR,W,7,3,,35-43,4,7,Fulmer,Junis,,2:33,D,"33,681",+
+Gm#,July,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+79,"Saturday, Jul 1 (1)",boxscore,DET,,CLE,W,7,4,,36-43,4,7,Greene,Shaw,Wilson,2:59,D,"28,719",++
+80,"Saturday, Jul 1 (2)",boxscore,DET,,CLE,L,1,4,,36-44,4,7,Carrasco,Zimmermann,Miller,3:17,N,"27,016",-
+81,"Sunday, Jul 2",boxscore,DET,,CLE,L,8,11,,36-45,4,8,Clevinger,Verlander,Allen,3:55,D,"30,429",--
+82,"Tuesday, Jul 4",boxscore,DET,,SFG,W,5,3,,37-45,4,7,Fulmer,Cain,Wilson,2:23,D,"32,514",+
+83,"Wednesday, Jul 5",boxscore,DET,,SFG,L,4,5,,37-46,4,7,Blach,Norris,Dyson,3:18,N,"26,613",-
+84,"Thursday, Jul 6",boxscore,DET,,SFG,W,6,2,,38-46,4,7,Sanchez,Stratton,,2:38,D,"27,210",+
+85,"Friday, Jul 7",boxscore,DET,@,CLE,L,2,11,,38-47,4,8,Carrasco,Zimmermann,,3:21,N,"32,307",-
+86,"Saturday, Jul 8",boxscore,DET,@,CLE,L,0,4,,38-48,4,9,Clevinger,Verlander,,3:15,N,"34,726",--
+87,"Sunday, Jul 9",boxscore,DET,@,CLE,W,5,3,,39-48,4,8,Fulmer,Goody,Wilson,3:49,N,"24,915",+
+88,"Friday, Jul 14",boxscore,DET,,TOR,L,2,7,,39-49,4,8,Sanchez,Verlander,,3:48,N,"37,879",-
+89,"Saturday, Jul 15",boxscore,DET,,TOR,W,11,1,,40-49,4,7,Fulmer,Liriano,,2:47,N,"40,036",+
+90,"Sunday, Jul 16",boxscore,DET,,TOR,W-wo,6,5,11,41-49,4,6,Saupold,Beliveau,,4:16,D,"37,173",++
+91,"Monday, Jul 17",boxscore,DET,@,KCR,W,10,2,,42-49,4,6,Zimmermann,Vargas,,3:29,N,"26,359",+++
+92,"Tuesday, Jul 18",boxscore,DET,@,KCR,W,9,3,,43-49,4,5,Boyd,Wood,,2:54,N,"22,908",++++
+93,"Wednesday, Jul 19",boxscore,DET,@,KCR,L-wo,3,4,,43-50,4,5,McCarthy,Wilson,,3:16,N,"30,105",-
+94,"Thursday, Jul 20",boxscore,DET,@,KCR,L,4,16,,43-51,4,5.5,Duffy,Fulmer,,3:34,N,"29,018",--
+95,"Friday, Jul 21",boxscore,DET,@,MIN,W,6,3,,44-51,4,5.5,Sanchez,Santana,Wilson,3:34,N,"22,369",+
+96,"Saturday, Jul 22",boxscore,DET,@,MIN,L,5,6,,44-52,4,6.5,Gibson,Zimmermann,Kintzler,3:20,N,"33,700",-
+97,"Sunday, Jul 23",boxscore,DET,@,MIN,W,9,6,,45-52,4,6.5,Boyd,Hildenberger,Wilson,4:19,D,"28,373",+
+98,"Monday, Jul 24",boxscore,DET,,KCR,L,3,5,12,45-53,4,7.5,Junis,VerHagen,Herrera,3:57,N,"26,415",-
+99,"Tuesday, Jul 25",boxscore,DET,,KCR,L,1,3,,45-54,4,8.5,Duffy,Fulmer,Herrera,2:49,N,"27,259",--
+100,"Wednesday, Jul 26",boxscore,DET,,KCR,L,2,16,,45-55,4,9.5,Kennedy,Sanchez,,3:37,N,"29,073",---
+101,"Friday, Jul 28",boxscore,DET,,HOU,L,5,6,,45-56,4,11,Peacock,Rondon,Giles,2:54,N,"30,358",----
+102,"Saturday, Jul 29",boxscore,DET,,HOU,W,5,3,,46-56,4,11,Boyd,Martes,Wilson,2:41,N,"33,766",+
+103,"Sunday, Jul 30",boxscore,DET,,HOU,W,13,1,,47-56,4,10,Verlander,McCullers,,3:26,D,"31,970",++
+104,"Monday, Jul 31",boxscore,DET,@,NYY,L,3,7,,47-57,4,10,Severino,Fulmer,Chapman,3:23,N,"39,904",-
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+105,"Tuesday, Aug 1",boxscore,DET,@,NYY,W,4,3,,48-57,4,9,Sanchez,Sabathia,Greene,2:59,N,"43,238",+
+106,"Wednesday, Aug 2",boxscore,DET,@,NYY,W,2,0,,49-57,4,8.5,Zimmermann,Tanaka,Greene,2:52,D,"43,379",++
+107,"Thursday, Aug 3",boxscore,DET,@,BAL,W,7,5,,50-57,4,8.5,Saupold,Tillman,Greene,3:18,N,"17,157",+++
+108,"Friday, Aug 4",boxscore,DET,@,BAL,W,5,2,,51-57,4,8.5,Verlander,Givens,Rondon,2:52,N,"22,882",++++
+109,"Saturday, Aug 5",boxscore,DET,@,BAL,L,2,5,,51-58,4,8.5,Brach,Jimenez,Britton,3:14,N,"33,911",-
+110,"Sunday, Aug 6",boxscore,DET,@,BAL,L,3,12,,51-59,4,8.5,Jimenez,Sanchez,,3:10,D,"30,144",--
+111,"Monday, Aug 7",boxscore,DET,@,PIT,L,0,3,,51-60,4,9,Williams,Zimmermann,Nicasio,2:37,N,"21,651",---
+112,"Tuesday, Aug 8",boxscore,DET,@,PIT,L,3,6,,51-61,4,10,Kuhl,Boyd,Rivero,2:36,N,"25,112",----
+113,"Wednesday, Aug 9",boxscore,DET,,PIT,W,10,0,,52-61,4,9,Verlander,Nova,,3:03,N,"28,902",+
+114,"Thursday, Aug 10",boxscore,DET,,PIT,L,5,7,,52-62,4,9,Cole,VerHagen,Rivero,3:06,D,"33,490",-
+115,"Friday, Aug 11",boxscore,DET,,MIN,L,4,9,,52-63,4,10,Pressly,Sanchez,,3:21,N,"29,733",--
+116,"Saturday, Aug 12",boxscore,DET,,MIN,W-wo,12,11,,53-63,4,10,Greene,Belisle,,3:36,N,"33,006",+
+117,"Sunday, Aug 13",boxscore,DET,,MIN,L,4,6,,53-64,4,11,Duffey,Rondon,Hildenberger,3:38,D,"30,582",-
+118,"Monday, Aug 14",boxscore,DET,@,TEX,L,2,6,,53-65,4,12,Perez,Fulmer,,2:56,N,"21,041",--
+119,"Tuesday, Aug 15",boxscore,DET,@,TEX,L,4,10,,53-66,4,13,Griffin,Verlander,,3:23,N,"20,636",---
+120,"Wednesday, Aug 16",boxscore,DET,@,TEX,L,6,12,,53-67,4,13.5,Hamels,Bell,,3:52,N,"22,713",----
+121,"Friday, Aug 18",boxscore,DET,,LAD,L,5,8,,53-68,4,14.5,Hill,Zimmermann,,3:20,N,"32,841",-----
+122,"Saturday, Aug 19",boxscore,DET,,LAD,L,0,3,,53-69,4,15.5,Stripling,Fulmer,Jansen,2:57,D,"37,182",------
+123,"Sunday, Aug 20",boxscore,DET,,LAD,W,6,1,,54-69,4,14.5,Verlander,Maeda,,2:33,D,"30,901",+
+124,"Tuesday, Aug 22",boxscore,DET,,NYY,L,4,13,,54-70,4,15,Tanaka,Boyd,,3:14,N,"27,818",-
+125,"Wednesday, Aug 23",boxscore,DET,,NYY,L,2,10,,54-71,4,15,Severino,Zimmermann,,2:55,N,"29,695",--
+126,"Thursday, Aug 24",boxscore,DET,,NYY,W,10,6,,55-71,4,15,Wilson,Betances,Greene,4:13,D,"32,622",+
+127,"Friday, Aug 25",boxscore,DET,@,CHW,L-wo,2,3,,55-72,4,16,Minaya,Jimenez,,2:44,N,"23,171",-
+128,"Saturday, Aug 26",boxscore,DET,@,CHW,W,6,3,,56-72,4,16,Farmer,Rodon,Greene,3:14,N,"29,489",+
+129,"Sunday, Aug 27",boxscore,DET,@,CHW,L,1,7,,56-73,4,17,Giolito,Boyd,,2:44,D,"22,532",-
+130,"Monday, Aug 28",boxscore,DET,@,COL,W,4,3,,57-73,4,17,Zimmermann,Senzatela,Greene,3:29,N,"30,754",+
+131,"Tuesday, Aug 29",boxscore,DET,@,COL,L,3,7,,57-74,4,17.5,Neshek,Fulmer,,3:08,N,"30,721",-
+132,"Wednesday, Aug 30",boxscore,DET,@,COL,W,6,2,,58-74,4,18,Verlander,Bettis,,3:03,D,"29,281",+
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+133,"Friday, Sep 1 (1)",boxscore,DET,,CLE,L,2,3,,58-75,4,20,Allen,Greene,Smith,3:25,D,"26,093",-
+134,"Friday, Sep 1 (2)",boxscore,DET,,CLE,L,0,10,,58-76,4,20,Clevinger,Farmer,,3:04,N,"24,342",--
+135,"Saturday, Sep 2",boxscore,DET,,CLE,L,2,5,,58-77,4,21,Kluber,Zimmermann,Allen,3:02,N,"25,272",---
+136,"Sunday, Sep 3",boxscore,DET,,CLE,L,1,11,,58-78,4,22,Tomlin,Bell,,3:16,D,"25,244",----
+137,"Monday, Sep 4",boxscore,DET,,KCR,L,6,7,,58-79,4,23,Junis,Lewicki,Alexander,3:13,D,"24,804",-----
+138,"Tuesday, Sep 5",boxscore,DET,,KCR,W,13,2,,59-79,4,23,Jaye,Vargas,,3:00,N,"22,547",+
+139,"Wednesday, Sep 6",boxscore,DET,,KCR,L,2,13,,59-80,4,24,Hammel,Boyd,,3:27,N,"23,755",-
+140,"Friday, Sep 8",boxscore,DET,@,TOR,W,5,4,,60-80,4,24.5,Farmer,Stroman,Greene,2:34,N,"31,961",+
+141,"Saturday, Sep 9",boxscore,DET,@,TOR,L,4,5,,60-81,4,25.5,Anderson,Saupold,Tepera,3:03,D,"44,218",-
+142,"Sunday, Sep 10",boxscore,DET,@,TOR,L,2,8,,60-82,4,26.5,Happ,Sanchez,Santos,2:48,D,"39,797",--
+143,"Monday, Sep 11",boxscore,DET,@,CLE,L,0,11,,60-83,4,27.5,Carrasco,Jaye,,3:12,N,"18,521",---
+144,"Tuesday, Sep 12",boxscore,DET,@,CLE,L,0,2,,60-84,4,28.5,Kluber,Boyd,,2:41,N,"24,654",----
+145,"Wednesday, Sep 13",boxscore,DET,@,CLE,L,3,5,,60-85,4,29.5,Clevinger,Farmer,Allen,2:59,D,"29,346",-----
+146,"Thursday, Sep 14",boxscore,DET,,CHW,L,7,17,,60-86,4,30.5,Shields,Bell,,3:42,D,"26,743",------
+147,"Friday, Sep 15",boxscore,DET,,CHW,W-wo,3,2,,61-86,4,29.5,Greene,Alburquerque,,3:18,N,"25,298",+
+148,"Saturday, Sep 16",boxscore,DET,,CHW,L,4,10,,61-87,4,30.5,Lopez,Jaye,,3:25,N,"29,846",-
+149,"Sunday, Sep 17",boxscore,DET,,CHW,W,12,0,,62-87,4,30.5,Boyd,Covey,,2:45,D,"25,663",+
+150,"Monday, Sep 18",boxscore,DET,,OAK,L,3,8,,62-88,4,31,Hendriks,Farmer,,3:39,N,"23,895",-
+151,"Tuesday, Sep 19",boxscore,DET,,OAK,L,8,9,,62-89,4,32,Casilla,Wilson,Treinen,3:58,N,"23,460",--
+152,"Wednesday, Sep 20",boxscore,DET,,OAK,L,2,3,,62-90,4,33,Mengden,Sanchez,Hendriks,3:07,D,"26,913",---
+153,"Thursday, Sep 21",boxscore,DET,,MIN,L,1,12,,62-91,4,34,Gee,Zimmermann,,3:34,N,"25,437",----
+154,"Friday, Sep 22",boxscore,DET,,MIN,L,3,7,,62-92,5,34,Gibson,Norris,,2:52,N,"25,390",-----
+155,"Saturday, Sep 23",boxscore,DET,,MIN,L,4,10,,62-93,5,35,Santana,Stumpf,,3:12,N,"26,800",------
+156,"Sunday, Sep 24",boxscore,DET,,MIN,L,4,10,,62-94,5,36,Berrios,Farmer,,3:16,D,"23,882",-------
+157,"Tuesday, Sep 26",preview,DET,@,KCR,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+158,"Wednesday, Sep 27",preview,DET,@,KCR,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+159,"Thursday, Sep 28",preview,DET,@,KCR,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+160,"Friday, Sep 29",preview,DET,@,MIN,8:10 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+161,"Saturday, Sep 30",preview,DET,@,MIN,7:10 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+162,"Sunday, Oct 1",preview,DET,@,MIN,3:10 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+Gm#,Date,,Tm,,Opp,,,,,,,,,,,,,,D/N

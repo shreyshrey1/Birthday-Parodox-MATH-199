@@ -1,0 +1,169 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,"Monday, Apr 3",boxscore,PHI,@,CIN,W,4,3,,1-0,1,Tied,Hellickson,Feldman,Gomez,3:04,D,"43,804",+
+2,"Wednesday, Apr 5",boxscore,PHI,@,CIN,L,0,2,,1-1,2,1,Finnegan,Eickhoff,Iglesias,2:25,N,"19,944",-
+3,"Thursday, Apr 6",boxscore,PHI,@,CIN,L,4,7,,1-2,3,1,Reed,Morgan,Storen,3:05,D,"10,586",--
+4,"Friday, Apr 7",boxscore,PHI,,WSN,L,6,7,,1-3,4,2,Scherzer,Velasquez,Treinen,3:34,D,"45,121",---
+5,"Saturday, Apr 8",boxscore,PHI,,WSN,W,17,3,,2-3,3,1,Nola,Guthrie,,3:15,N,"37,241",+
+6,"Sunday, Apr 9",boxscore,PHI,,WSN,W-wo,4,3,,3-3,1,Tied,Gomez,Glover,,3:24,D,"36,917",++
+7,"Monday, Apr 10",boxscore,PHI,,NYM,L,3,4,,3-4,4,1,Blevins,Ramos,Reed,2:59,N,"33,359",-
+8,"Tuesday, Apr 11",boxscore,PHI,,NYM,L,4,14,,3-5,4,2,Harvey,Buchholz,,3:38,N,"28,659",--
+9,"Wednesday, Apr 12",boxscore,PHI,,NYM,L,4,5,,3-6,4,3,Wheeler,Velasquez,Reed,3:13,N,"28,272",---
+10,"Friday, Apr 14",boxscore,PHI,@,WSN,L-wo,2,3,10,3-7,5,3.5,Kelley,Gomez,,3:18,D,"38,664",----
+11,"Saturday, Apr 15",boxscore,PHI,@,WSN,W,4,2,,4-7,5,2.5,Hellickson,Blanton,Benoit,2:39,D,"35,626",+
+12,"Sunday, Apr 16",boxscore,PHI,@,WSN,L-wo,4,6,,4-8,5,3,Kelley,Benoit,,3:11,D,"29,774",-
+13,"Tuesday, Apr 18",boxscore,PHI,@,NYM,W,6,2,10,5-8,5,3,Garcia,Montero,,3:58,N,"23,536",+
+14,"Wednesday, Apr 19",boxscore,PHI,@,NYM,L,4,5,,5-9,5,4,Robles,Ramos,Reed,2:37,N,"22,243",-
+15,"Thursday, Apr 20",boxscore,PHI,@,NYM,W,6,4,,6-9,4,4,Nola,Syndergaard,Neris,3:14,N,"24,656",+
+16,"Friday, Apr 21",boxscore,PHI,,ATL,W,4,3,,7-9,4,4,Hellickson,Colon,Neris,2:38,N,"24,189",++
+17,"Saturday, Apr 22",boxscore,PHI,,ATL,W-wo,4,3,10,8-9,3,4,Gomez,Johnson,,3:32,N,"31,334",+++
+18,"Sunday, Apr 23",boxscore,PHI,,ATL,W,5,2,,9-9,3,4,Rodriguez,Vizcaino,,2:38,D,"28,632",++++
+19,"Wednesday, Apr 26",boxscore,PHI,,MIA,W,7,4,,10-9,2,4,Velasquez,Chen,,2:41,N,"26,191",+++++
+20,"Thursday, Apr 27",boxscore,PHI,,MIA,W,3,2,,11-9,2,4,Hellickson,Volquez,Neris,3:15,D,"22,180",++++++
+21,"Friday, Apr 28",boxscore,PHI,@,LAD,L,3,5,,11-10,2,4,Maeda,Eickhoff,Jansen,3:02,N,"46,729",-
+22,"Saturday, Apr 29",boxscore,PHI,@,LAD,L-wo,5,6,,11-11,2,4,Dayton,Neris,,3:27,N,"53,110",--
+23,"Sunday, Apr 30",boxscore,PHI,@,LAD,L,3,5,,11-12,2,5,Ryu,Pivetta,Jansen,3:06,D,"48,961",---
+Gm#,May,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+24,"Monday, May 1",boxscore,PHI,@,CHC,W,10,2,,12-12,2,4.5,Velasquez,Anderson,,3:06,N,"38,567",+
+25,"Tuesday, May 2",boxscore,PHI,@,CHC,L,3,8,,12-13,2,4.5,Lester,Hellickson,,3:24,N,"38,660",-
+26,"Wednesday, May 3",boxscore,PHI,@,CHC,L,4,5,,12-14,2,5.5,Arrieta,Eickhoff,Davis,3:09,N,"39,335",--
+27,"Thursday, May 4",boxscore,PHI,@,CHC,L-wo,4,5,13,12-15,2,6.5,Uehara,Rodriguez,,4:22,D,"36,394",---
+28,"Friday, May 5",boxscore,PHI,,WSN,L,2,4,,12-16,3,7.5,Strasburg,Pivetta,Albers,3:20,N,"20,237",----
+29,"Saturday, May 6",boxscore,PHI,,WSN,L,2,6,,12-17,3,8.5,Cole,Velasquez,,3:01,N,"21,298",-----
+30,"Sunday, May 7",boxscore,PHI,,WSN,W-wo,6,5,10,13-17,3,7.5,Neris,Treinen,,3:51,D,"30,464",+
+31,"Tuesday, May 9",boxscore,PHI,,SEA,L,9,10,,13-18,3,7,Vincent,Neris,Diaz,3:48,N,"31,715",-
+32,"Wednesday, May 10",boxscore,PHI,,SEA,L,6,11,,13-19,3,8,Zych,Benoit,,3:40,D,"26,697",--
+33,"Saturday, May 13",boxscore,PHI,@,WSN,L-wo,4,6,,13-20,3,9,Kelley,Ramos,,3:34,N,"31,473",---
+34,"Sunday, May 14 (1)",boxscore,PHI,@,WSN,W,4,3,,14-20,3,9,Benoit,Kelley,Neris,3:02,D,"31,738",+
+35,"Sunday, May 14 (2)",boxscore,PHI,@,WSN,L,5,6,,14-21,3,9,Turner,Neshek,Albers,3:34,N,"30,137",-
+36,"Tuesday, May 16",boxscore,PHI,@,TEX,L,1,5,,14-22,4,10,Darvish,Eickhoff,,2:44,N,"23,110",--
+37,"Wednesday, May 17",boxscore,PHI,@,TEX,L,3,9,,14-23,4,10,Cashner,Eflin,,2:48,N,"28,703",---
+38,"Thursday, May 18",boxscore,PHI,@,TEX,L,4,8,,14-24,4,10,Perez,Rodriguez,,3:12,D,"35,007",----
+39,"Friday, May 19",boxscore,PHI,@,PIT,W,7,2,,15-24,4,9,Hellickson,Williams,,2:54,N,"25,795",+
+40,"Saturday, May 20",boxscore,PHI,@,PIT,L,3,6,,15-25,4,9,Nova,Velasquez,Watson,2:52,D,"32,572",-
+41,"Sunday, May 21",boxscore,PHI,@,PIT,L,0,1,,15-26,4,10,LeBlanc,Nola,Watson,2:45,D,"24,445",--
+42,"Monday, May 22",boxscore,PHI,,COL,L,1,8,,15-27,4,10.5,Hoffman,Eickhoff,,3:03,N,"21,251",---
+43,"Tuesday, May 23",boxscore,PHI,,COL,L,2,8,,15-28,5,11.5,Marquez,Eflin,,2:44,N,"17,109",----
+44,"Wednesday, May 24",boxscore,PHI,,COL,L,2,7,,15-29,5,12.5,Chatwood,Hellickson,,3:09,N,"19,160",-----
+45,"Thursday, May 25",boxscore,PHI,,COL,W-wo,2,1,11,16-29,4,11.5,Gomez,Oberg,,3:39,D,"18,143",+
+46,"Friday, May 26",boxscore,PHI,,CIN,L,2,5,,16-30,5,12.5,Adleman,Nola,Iglesias,2:34,N,"21,388",-
+47,"Saturday, May 27",boxscore,PHI,,CIN,W-wo,4,3,,17-30,4,12.5,Neris,Lorenzen,,2:47,D,"30,100",+
+48,"Sunday, May 28",boxscore,PHI,,CIN,L,4,8,,17-31,5,12.5,Feldman,Eflin,,2:50,D,"25,413",-
+49,"Monday, May 29",boxscore,PHI,@,MIA,L,1,4,,17-32,5,13.5,Volquez,Hellickson,Ramos,2:37,N,"17,032",--
+50,"Tuesday, May 30",boxscore,PHI,@,MIA,L,2,7,,17-33,5,14.5,McGowan,Velasquez,,3:07,N,"16,241",---
+51,"Wednesday, May 31",boxscore,PHI,@,MIA,L,2,10,,17-34,5,15.5,Straily,Nola,,3:16,D,"15,197",----
+Gm#,June,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+52,"Friday, Jun 2",boxscore,PHI,,SFG,L,0,10,,17-35,5,16.5,Blach,Eickhoff,,2:55,N,"22,491",-----
+53,"Saturday, Jun 3",boxscore,PHI,,SFG,W,5,3,,18-35,5,15.5,Lively,Cueto,Gomez,2:50,D,"32,413",+
+54,"Sunday, Jun 4",boxscore,PHI,,SFG,W,9,7,,19-35,5,15.5,Neshek,Law,Neris,3:28,D,"25,063",++
+55,"Monday, Jun 5",boxscore,PHI,@,ATL,W,11,4,,20-35,5,15.5,Pivetta,Colon,,3:18,N,"20,942",+++
+56,"Tuesday, Jun 6",boxscore,PHI,@,ATL,W,3,1,,21-35,5,15.5,Nola,Garcia,Neshek,2:42,N,"23,489",++++
+57,"Wednesday, Jun 7",boxscore,PHI,@,ATL,L,1,14,,21-36,5,15.5,Foltynewicz,Eickhoff,,2:58,N,"24,185",-
+58,"Thursday, Jun 8",boxscore,PHI,@,ATL,L,1,3,,21-37,5,16.5,Dickey,Lively,Johnson,2:40,N,"25,095",--
+59,"Friday, Jun 9",boxscore,PHI,@,STL,L,2,3,,21-38,5,16.5,Wacha,Hellickson,Oh,2:43,N,"42,971",---
+60,"Saturday, Jun 10",boxscore,PHI,@,STL,L,0,7,,21-39,5,16.5,Martinez,Pivetta,,2:28,D,"43,911",----
+61,"Sunday, Jun 11",boxscore,PHI,@,STL,L,5,6,,21-40,5,16.5,Wainwright,Nola,Oh,3:09,D,"47,325",-----
+62,"Monday, Jun 12",boxscore,PHI,@,BOS,L-wo,5,6,11,21-41,5,16.5,Barnes,Fien,,4:16,N,"36,757",------
+63,"Tuesday, Jun 13",boxscore,PHI,@,BOS,L-wo,3,4,12,21-42,5,17.5,Abad,Garcia,,4:24,N,"37,141",-------
+64,"Wednesday, Jun 14",boxscore,PHI,,BOS,L,3,7,,21-43,5,17.5,Velazquez,Hellickson,,3:26,N,"28,263",--------
+65,"Thursday, Jun 15",boxscore,PHI,,BOS,W,1,0,,22-43,5,17.5,Neshek,Sale,Neris,2:25,N,"30,729",+
+66,"Friday, Jun 16",boxscore,PHI,,ARI,L,4,5,,22-44,5,18.5,Corbin,Nola,Rodney,3:12,N,"18,140",-
+67,"Saturday, Jun 17",boxscore,PHI,,ARI,L,1,5,,22-45,5,19.5,De La Rosa,Ramos,,3:25,D,"21,108",--
+68,"Sunday, Jun 18",boxscore,PHI,,ARI,L,4,5,10,22-46,5,19.5,Bradley,Gomez,Rodney,4:12,D,"31,131",---
+69,"Tuesday, Jun 20",boxscore,PHI,,STL,L,1,8,11,22-47,5,20,Siegrist,Ramos,,3:28,N,"22,070",----
+70,"Wednesday, Jun 21",boxscore,PHI,,STL,L,6,7,10,22-48,5,20,Cecil,Ramos,Oh,3:29,N,"25,037",-----
+71,"Thursday, Jun 22",boxscore,PHI,,STL,W,5,1,,23-48,5,19.5,Nola,Martinez,,2:31,D,"23,623",+
+72,"Friday, Jun 23",boxscore,PHI,@,ARI,W,6,1,,24-48,5,19.5,Leiter,Corbin,,2:54,N,"31,648",++
+73,"Saturday, Jun 24",boxscore,PHI,@,ARI,L,2,9,,24-49,5,20.5,Ray,Lively,,3:05,N,"40,557",-
+74,"Sunday, Jun 25",boxscore,PHI,@,ARI,L-wo,1,2,11,24-50,5,20.5,McFarland,Ramos,,3:50,D,"28,179",--
+75,"Monday, Jun 26",boxscore,PHI,@,ARI,L,1,6,,24-51,5,20.5,Greinke,Pivetta,,3:11,D,"20,765",---
+76,"Tuesday, Jun 27",boxscore,PHI,@,SEA,W,8,2,,25-51,5,20.5,Nola,Paxton,,3:02,N,"22,648",+
+77,"Wednesday, Jun 28",boxscore,PHI,@,SEA,W,5,4,,26-51,5,20.5,Pinto,Diaz,Neris,3:24,D,"29,505",++
+78,"Friday, Jun 30",boxscore,PHI,@,NYM,L,1,2,,26-52,5,20,deGrom,Lively,Reed,2:38,N,"37,134",-
+Gm#,July,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+79,"Saturday, Jul 1",boxscore,PHI,@,NYM,L,6,7,,26-53,5,20,Salas,Neshek,Reed,3:21,D,"33,080",--
+80,"Sunday, Jul 2",boxscore,PHI,@,NYM,W,7,1,,27-53,5,20,Pivetta,Montero,,2:53,D,"30,343",+
+81,"Monday, Jul 3",boxscore,PHI,,PIT,W,4,0,,28-53,5,20,Nola,Nova,,2:36,N,"26,498",++
+82,"Tuesday, Jul 4",boxscore,PHI,,PIT,L,0,3,,28-54,5,21,Taillon,Leiter,Rivero,3:01,D,"24,087",-
+83,"Wednesday, Jul 5",boxscore,PHI,,PIT,L,2,5,,28-55,5,21.5,Cole,Lively,Rivero,3:16,N,"19,099",--
+84,"Thursday, Jul 6",boxscore,PHI,,PIT,L,3,6,,28-56,5,21.5,Kuhl,Benoit,Nicasio,2:58,N,"33,059",---
+85,"Friday, Jul 7",boxscore,PHI,,SDP,L,3,4,,28-57,5,22.5,Hand,Neris,Maurer,2:41,N,"38,533",----
+86,"Saturday, Jul 8",boxscore,PHI,,SDP,L,1,2,,28-58,5,22.5,Chacin,Nola,Maurer,2:30,D,"33,216",-----
+87,"Sunday, Jul 9",boxscore,PHI,,SDP,W,7,1,,29-58,5,22.5,Eickhoff,Cahill,,2:45,D,"21,184",+
+88,"Friday, Jul 14",boxscore,PHI,@,MIL,L,6,9,,29-59,5,23.5,Davies,Pivetta,Knebel,3:10,N,"41,941",-
+89,"Saturday, Jul 15",boxscore,PHI,@,MIL,L,2,3,,29-60,5,24.5,Barnes,Benoit,Knebel,2:44,N,"37,950",--
+90,"Sunday, Jul 16",boxscore,PHI,@,MIL,W,5,2,,30-60,5,24.5,Hellickson,Scahill,Neris,3:18,D,"41,747",+
+91,"Monday, Jul 17",boxscore,PHI,@,MIA,L-wo,5,6,10,30-61,5,25.5,Steckenrider,Leiter,,3:41,N,"17,146",-
+92,"Tuesday, Jul 18",boxscore,PHI,@,MIA,W,5,2,,31-61,5,25.5,Neshek,McGowan,Neris,2:41,N,"18,176",+
+93,"Wednesday, Jul 19",boxscore,PHI,@,MIA,W,10,3,,32-61,5,24.5,Pivetta,Straily,,3:04,D,"31,854",++
+94,"Friday, Jul 21",boxscore,PHI,,MIL,W,6,1,,33-61,5,23.5,Nola,Garza,,3:02,N,"17,550",+++
+95,"Saturday, Jul 22",boxscore,PHI,,MIL,L,8,9,,33-62,5,24.5,Barnes,Neris,Knebel,3:24,N,"17,712",-
+96,"Sunday, Jul 23",boxscore,PHI,,MIL,W,6,3,,34-62,5,24.5,Eickhoff,Guerra,Garcia,3:07,D,"21,258",+
+97,"Monday, Jul 24",boxscore,PHI,,HOU,L,4,13,,34-63,5,25,Musgrove,Velasquez,,3:27,N,"17,567",-
+98,"Tuesday, Jul 25",boxscore,PHI,,HOU,L,0,5,,34-64,5,25,Morton,Pivetta,,2:44,N,"17,176",--
+99,"Wednesday, Jul 26",boxscore,PHI,,HOU,W,9,0,,35-64,5,25,Nola,Fiers,,3:25,N,"19,718",+
+100,"Friday, Jul 28",boxscore,PHI,,ATL,W,10,3,,36-64,5,25,Thompson,Teheran,Benoit,3:01,N,"17,177",++
+101,"Saturday, Jul 29",boxscore,PHI,,ATL,W-wo,4,3,11,37-64,5,24,Neris,Brothers,,3:50,N,"28,162",+++
+102,"Sunday, Jul 30",boxscore,PHI,,ATL,W-wo,2,1,,38-64,5,23.5,Neris,Brothers,,3:20,D,"20,680",++++
+103,"Monday, Jul 31",boxscore,PHI,,ATL,W,7,6,,39-64,5,23.5,Pivetta,Foltynewicz,Neris,3:13,D,"20,297",+++++
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+104,"Tuesday, Aug 1",boxscore,PHI,@,LAA,L,1,7,,39-65,5,23.5,Nolasco,Nola,,3:20,N,"36,344",-
+105,"Wednesday, Aug 2",boxscore,PHI,@,LAA,L,0,7,,39-66,5,23.5,Ramirez,Thompson,,2:33,N,"34,623",--
+106,"Thursday, Aug 3",boxscore,PHI,@,LAA,L,4,5,,39-67,5,24,Petit,Garcia,Norris,3:07,N,"34,710",---
+107,"Friday, Aug 4",boxscore,PHI,@,COL,L,3,4,,39-68,5,25,Dunn,Garcia,Holland,3:41,N,"35,092",----
+108,"Saturday, Aug 5",boxscore,PHI,@,COL,L,5,8,,39-69,5,25,Gray,Pivetta,,2:53,N,"40,563",-----
+109,"Sunday, Aug 6",boxscore,PHI,@,COL,W,3,2,,40-69,5,25,Ramos,Holland,Neris,3:14,D,"48,069",+
+110,"Tuesday, Aug 8",boxscore,PHI,@,ATL,W,5,2,,41-69,5,24.5,Eflin,Teheran,Neris,2:58,N,"25,783",++
+111,"Wednesday, Aug 9",boxscore,PHI,@,ATL,W,3,2,,42-69,5,24.5,Eickhoff,Newcomb,Neris,2:55,N,"22,776",+++
+112,"Thursday, Aug 10",boxscore,PHI,,NYM,L,0,10,,42-70,5,25.5,deGrom,Velasquez,,3:03,N,"27,716",-
+113,"Friday, Aug 11",boxscore,PHI,,NYM,L,6,7,,42-71,5,26,Robles,Neris,Ramos,3:25,N,"26,925",--
+114,"Saturday, Aug 12",boxscore,PHI,,NYM,W,3,1,,43-71,5,26,Nola,Matz,Garcia,3:04,N,"34,131",+
+115,"Sunday, Aug 13",boxscore,PHI,,NYM,L,2,6,,43-72,5,26.5,Flexen,Eflin,,3:30,D,"24,106",-
+116,"Monday, Aug 14",boxscore,PHI,@,SDP,L,4,7,,43-73,5,27,Torres,Pinto,Hand,3:20,N,"20,873",--
+117,"Tuesday, Aug 15",boxscore,PHI,@,SDP,L,4,8,,43-74,5,28,Lamet,Leiter,,2:48,N,"23,368",---
+118,"Wednesday, Aug 16",boxscore,PHI,@,SDP,L,0,3,,43-75,5,28,Richard,Pivetta,,2:30,D,"21,564",----
+119,"Thursday, Aug 17",boxscore,PHI,@,SFG,L,4,5,,43-76,5,29,Samardzija,Nola,Dyson,2:47,N,"41,279",-----
+120,"Friday, Aug 18",boxscore,PHI,@,SFG,L,2,10,,43-77,5,30,Moore,Eflin,,2:52,N,"39,487",------
+121,"Saturday, Aug 19",boxscore,PHI,@,SFG,W,12,9,,44-77,5,29,Morgan,Blach,Neris,3:21,N,"40,719",+
+122,"Sunday, Aug 20",boxscore,PHI,@,SFG,W,5,2,,45-77,5,29,Morgan,Strickland,Neris,3:14,D,"39,921",++
+123,"Tuesday, Aug 22 (1)",boxscore,PHI,,MIA,L,8,12,,45-78,5,30.5,Straily,Nola,,3:06,N,,-
+124,"Tuesday, Aug 22 (2)",boxscore,PHI,,MIA,L,4,7,,45-79,5,30.5,Urena,Pivetta,Ziegler,3:22,N,"20,761",--
+125,"Wednesday, Aug 23",boxscore,PHI,,MIA,W,8,0,,46-79,5,29.5,Leiter,Nicolino,,2:50,N,"19,161",+
+126,"Thursday, Aug 24",boxscore,PHI,,MIA,L,8,9,,46-80,5,30.5,Garcia,Garcia,Ziegler,3:14,D,"18,083",-
+127,"Friday, Aug 25",boxscore,PHI,,CHC,W,7,1,,47-80,5,29.5,Eickhoff,Quintana,,3:00,N,"24,424",+
+128,"Saturday, Aug 26",boxscore,PHI,,CHC,L,2,17,,47-81,5,30.5,Hendricks,Lively,,3:03,N,"29,379",-
+129,"Sunday, Aug 27",boxscore,PHI,,CHC,W,6,3,,48-81,5,30,Pivetta,Lackey,Neris,2:54,D,"28,689",+
+130,"Monday, Aug 28",boxscore,PHI,,ATL,W,6,1,,49-81,5,30,Nola,Sims,,2:52,N,"15,154",++
+131,"Wednesday, Aug 30 (1)",boxscore,PHI,,ATL,L,1,9,,49-82,5,32,Dickey,Eickhoff,,2:49,D,,-
+132,"Wednesday, Aug 30 (2)",boxscore,PHI,,ATL,L,2,5,,49-83,5,32,Teheran,Leiter,Vizcaino,3:17,D,"15,706",--
+133,"Thursday, Aug 31",boxscore,PHI,@,MIA,W,3,2,,50-83,5,31,Lively,Despaigne,Neris,3:09,N,"17,013",+
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+134,"Friday, Sep 1",boxscore,PHI,@,MIA,W,2,1,,51-83,5,30,Nicasio,Ziegler,Neris,2:44,N,"17,998",++
+135,"Saturday, Sep 2",boxscore,PHI,@,MIA,L,9,10,,51-84,5,31,Straily,Nola,Steckenrider,3:37,N,"18,262",-
+136,"Sunday, Sep 3",boxscore,PHI,@,MIA,W,3,1,12,52-84,5,30,Morgan,Tazawa,Neris,3:46,D,"19,404",+
+137,"Monday, Sep 4",boxscore,PHI,@,NYM,L,7,11,,52-85,5,31,Montero,Leiter,,3:18,D,"28,808",-
+138,"Tuesday, Sep 5",boxscore,PHI,@,NYM,W,9,1,,53-85,5,31,Lively,deGrom,,3:04,N,"22,230",+
+139,"Wednesday, Sep 6",boxscore,PHI,@,NYM,L,3,6,6,53-86,5,32,Gsellman,Pivetta,,1:53,N,"19,617",-
+140,"Thursday, Sep 7",boxscore,PHI,@,WSN,L,3,4,,53-87,5,33,Roark,Morgan,Doolittle,3:09,N,"26,267",--
+141,"Friday, Sep 8",boxscore,PHI,@,WSN,L,10,11,,53-88,5,34,Scherzer,Thompson,Doolittle,3:27,N,"29,837",---
+142,"Saturday, Sep 9",boxscore,PHI,@,WSN,W,5,4,,54-88,5,33,Leiter,Jackson,Neris,3:23,N,"35,694",+
+143,"Sunday, Sep 10",boxscore,PHI,@,WSN,L,2,3,,54-89,5,34,Strasburg,Lively,Madson,2:16,D,"32,627",-
+144,"Tuesday, Sep 12",boxscore,PHI,,MIA,W-wo,9,8,15,55-89,5,33,Ramos,Guerra,,4:57,N,"16,439",+
+145,"Wednesday, Sep 13",boxscore,PHI,,MIA,W,8,1,,56-89,5,32,Nola,Straily,,2:25,N,"16,745",++
+146,"Thursday, Sep 14",boxscore,PHI,,MIA,W,10,0,,57-89,5,32,Thompson,Worley,,3:06,N,"16,302",+++
+147,"Friday, Sep 15",boxscore,PHI,,OAK,L,0,4,,57-90,5,32,Mengden,Leiter,,2:43,N,"24,061",-
+148,"Saturday, Sep 16",boxscore,PHI,,OAK,W,5,3,,58-90,5,31,Arano,Castro,Neris,2:56,N,"24,290",+
+149,"Sunday, Sep 17",boxscore,PHI,,OAK,L,3,6,,58-91,5,32,Manaea,Alvarez,Treinen,3:09,D,"28,054",-
+150,"Monday, Sep 18",boxscore,PHI,,LAD,W,4,3,,59-91,5,31.5,Pivetta,Kershaw,Neris,2:40,N,"16,690",+
+151,"Tuesday, Sep 19",boxscore,PHI,,LAD,W,6,2,,60-91,5,31.5,Nola,Baez,,3:23,N,"20,145",++
+152,"Wednesday, Sep 20",boxscore,PHI,,LAD,W,7,5,,61-91,5,31.5,Garcia,Avilan,Neris,3:18,N,"20,175",+++
+153,"Thursday, Sep 21",boxscore,PHI,,LAD,L,4,5,,61-92,5,31.5,Buehler,Pinto,Jansen,3:39,D,"18,735",-
+154,"Friday, Sep 22",boxscore,PHI,@,ATL,L,2,7,,61-93,5,31.5,Newcomb,Lively,,2:56,N,"33,702",--
+155,"Saturday, Sep 23",boxscore,PHI,@,ATL,L,2,4,,61-94,5,32.5,Brothers,Garcia,Vizcaino,2:50,N,"39,809",---
+156,"Sunday, Sep 24",boxscore,PHI,@,ATL,W,2,0,,62-94,5,32.5,Pivetta,Gohara,Neris,2:38,D,"33,183",+
+157,"Monday, Sep 25",boxscore,PHI,,WSN,L,1,3,,62-95,5,33.5,Cole,Nola,Doolittle,3:04,N,"17,026",-
+158,"Tuesday, Sep 26",preview,PHI,,WSN,7:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+159,"Wednesday, Sep 27",preview,PHI,,WSN,7:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+160,"Friday, Sep 29",preview,PHI,,NYM,7:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+161,"Saturday, Sep 30",preview,PHI,,NYM,7:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+162,"Sunday, Oct 1",preview,PHI,,NYM,3:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+Gm#,Date,,Tm,,Opp,,,,,,,,,,,,,,D/N

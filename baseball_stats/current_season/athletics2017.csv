@@ -1,0 +1,169 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,"Monday, Apr 3",boxscore,OAK,,LAA,W,4,2,,1-0,1,Tied,Graveman,Nolasco,Casilla,2:56,N,"36,067",+
+2,"Tuesday, Apr 4",boxscore,OAK,,LAA,L,6,7,,1-1,2,1,Bailey,Dull,Bedrosian,3:17,N,"11,225",-
+3,"Wednesday, Apr 5",boxscore,OAK,,LAA,L,0,5,,1-2,3,2,Ramirez,Cotton,,3:15,N,"13,405",--
+4,"Thursday, Apr 6",boxscore,OAK,,LAA,W,5,1,,2-2,2,1,Triggs,Skaggs,,2:44,D,"13,292",+
+5,"Friday, Apr 7",boxscore,OAK,@,TEX,L,5,10,,2-3,3,1,Claudio,Alcantara,,2:56,N,"34,235",-
+6,"Saturday, Apr 8",boxscore,OAK,@,TEX,W,6,1,,3-3,2,1,Graveman,Darvish,,2:59,N,"44,410",+
+7,"Sunday, Apr 9",boxscore,OAK,@,TEX,L,1,8,,3-4,3,2,Perez,Manaea,,3:16,D,"36,905",-
+8,"Monday, Apr 10",boxscore,OAK,@,KCR,W,2,0,,4-4,2,1.5,Cotton,Kennedy,Doolittle,2:50,D,"40,019",+
+9,"Wednesday, Apr 12",boxscore,OAK,@,KCR,W,8,3,,5-4,3,1,Triggs,Hammel,,3:07,N,"24,380",++
+10,"Thursday, Apr 13",boxscore,OAK,@,KCR,L,1,3,,5-5,3,1,Vargas,Hahn,Herrera,2:39,N,"22,160",-
+11,"Friday, Apr 14",boxscore,OAK,,HOU,L,2,7,,5-6,3,2,Keuchel,Madson,,3:07,N,"15,385",--
+12,"Saturday, Apr 15",boxscore,OAK,,HOU,L,6,10,,5-7,3,3,Harris,Casilla,,3:55,D,"20,140",---
+13,"Monday, Apr 17",boxscore,OAK,,TEX,L,0,7,,5-8,4,4,Griffin,Cotton,,2:46,N,"10,406",----
+14,"Tuesday, Apr 18",boxscore,OAK,,TEX,W,4,2,,6-8,3,3,Triggs,Darvish,Casilla,2:48,N,"12,091",+
+15,"Wednesday, Apr 19",boxscore,OAK,,TEX,W,9,1,,7-8,2,3,Hahn,Perez,,2:47,D,"14,031",++
+16,"Thursday, Apr 20",boxscore,OAK,,SEA,W,9,6,,8-8,2,3,Dull,Scribner,,3:09,N,"10,707",+++
+17,"Friday, Apr 21",boxscore,OAK,,SEA,W,3,1,,9-8,2,3,Manaea,Iwakuma,Casilla,2:51,N,"15,255",++++
+18,"Saturday, Apr 22",boxscore,OAK,,SEA,W,4,3,,10-8,2,2,Cotton,Miranda,Madson,3:07,D,"20,722",+++++
+19,"Sunday, Apr 23",boxscore,OAK,,SEA,L,1,11,,10-9,2,3,Gallardo,Triggs,,3:11,D,"24,165",-
+20,"Tuesday, Apr 25",boxscore,OAK,@,LAA,L-wo,1,2,11,10-10,2,4,Pounders,Madson,,3:12,N,"30,124",--
+21,"Wednesday, Apr 26",boxscore,OAK,@,LAA,L,5,8,,10-11,2,4,Shoemaker,Manaea,Norris,3:30,N,"30,248",---
+22,"Thursday, Apr 27",boxscore,OAK,@,LAA,L,1,2,,10-12,3,4,Nolasco,Graveman,Norris,2:30,N,"37,603",----
+23,"Friday, Apr 28",boxscore,OAK,@,HOU,L,4,9,,10-13,4,5,Morton,Cotton,,2:58,N,"28,472",-----
+24,"Saturday, Apr 29",boxscore,OAK,@,HOU,W,2,1,,11-13,3,4,Triggs,Musgrove,Casilla,2:49,N,"32,147",+
+25,"Sunday, Apr 30",boxscore,OAK,@,HOU,L,2,7,,11-14,3,5,Keuchel,Hahn,Giles,2:58,D,"34,880",-
+Gm#,May,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+26,"Tuesday, May 2",boxscore,OAK,@,MIN,L,1,9,,11-15,3,6.5,Santana,Gray,,2:48,N,"18,930",--
+27,"Wednesday, May 3",boxscore,OAK,@,MIN,L,4,7,,11-16,4,7.5,Santiago,Graveman,,3:17,N,"18,658",---
+28,"Thursday, May 4",boxscore,OAK,@,MIN,W,8,5,,12-16,4,6.5,Cotton,Gibson,Casilla,3:48,D,"19,247",+
+29,"Friday, May 5",boxscore,OAK,,DET,L,2,7,,12-17,5,7.5,Fulmer,Triggs,,2:54,N,"17,519",-
+30,"Saturday, May 6",boxscore,OAK,,DET,W-wo,6,5,,13-17,4,6.5,Montas,Rodriguez,,3:28,N,"16,651",+
+31,"Sunday, May 7",boxscore,OAK,,DET,W-wo,8,6,,14-17,4,6.5,Casilla,Rodriguez,,3:41,D,"23,227",++
+32,"Monday, May 8",boxscore,OAK,,LAA,W-wo,3,2,11,15-17,2,6,Hendriks,Guerra,,3:06,N,"10,292",+++
+33,"Tuesday, May 9",boxscore,OAK,,LAA,L,3,7,,15-18,4,7,Meyer,Cotton,Norris,3:07,N,"11,383",-
+34,"Wednesday, May 10",boxscore,OAK,,LAA,W,3,1,,16-18,3,7,Triggs,Chavez,Casilla,2:55,D,"11,061",+
+35,"Friday, May 12",boxscore,OAK,@,TEX,L-wo,2,5,,16-19,4,8.5,Kela,Casilla,,2:58,N,"35,625",-
+36,"Saturday, May 13",boxscore,OAK,@,TEX,L,5,6,,16-20,5,9,Barnette,Dull,Bush,3:26,N,"37,898",--
+37,"Sunday, May 14",boxscore,OAK,@,TEX,L,4,6,,16-21,5,9.5,Alvarez,Madson,Bush,2:51,D,"35,157",---
+38,"Monday, May 15",boxscore,OAK,@,SEA,L,5,6,,16-22,5,10.5,Gallardo,Manaea,Zych,3:14,N,"15,431",----
+39,"Tuesday, May 16",boxscore,OAK,@,SEA,W,9,6,,17-22,5,10.5,Madson,Cishek,,3:25,N,"13,955",+
+40,"Wednesday, May 17",boxscore,OAK,@,SEA,L,0,4,,17-23,5,11.5,Bergman,Hahn,,2:39,N,"14,117",-
+41,"Thursday, May 18",boxscore,OAK,,BOS,W,8,3,,18-23,5,11,Gray,Velazquez,,3:09,N,"12,016",+
+42,"Friday, May 19",boxscore,OAK,,BOS,W-wo,3,2,10,19-23,5,10,Dull,Hembree,,3:12,N,"24,728",++
+43,"Saturday, May 20",boxscore,OAK,,BOS,W,8,3,,20-23,4,9,Manaea,Taylor,,3:22,D,"20,235",+++
+44,"Sunday, May 21",boxscore,OAK,,BOS,L,3,12,,20-24,4,9,Rodriguez,Triggs,,3:11,D,"20,691",-
+45,"Tuesday, May 23",boxscore,OAK,,MIA,L,9,11,,20-25,4,10.5,Urena,Hahn,,3:46,N,"12,835",--
+46,"Wednesday, May 24",boxscore,OAK,,MIA,W,4,1,,21-25,4,9.5,Gray,Volquez,Casilla,2:38,D,"19,738",+
+47,"Friday, May 26",boxscore,OAK,@,NYY,W,4,1,,22-25,4,10,Manaea,Tanaka,,3:09,N,"39,044",++
+48,"Saturday, May 27",boxscore,OAK,@,NYY,L,2,3,,22-26,4,11,Sabathia,Cotton,Betances,3:14,D,"40,218",-
+49,"Sunday, May 28",boxscore,OAK,@,NYY,L,5,9,,22-27,4,12,Pineda,Triggs,Warren,3:09,D,"45,232",--
+50,"Monday, May 29",boxscore,OAK,@,CLE,L,3,5,,22-28,4,13,Carrasco,Mengden,Allen,2:50,D,"20,792",---
+51,"Tuesday, May 30",boxscore,OAK,@,CLE,L,4,9,,22-29,5,14,Bauer,Gray,,2:58,N,"14,184",----
+52,"Wednesday, May 31",boxscore,OAK,@,CLE,W,3,1,,23-29,5,14,Manaea,Clevinger,Casilla,2:30,N,"16,784",+
+Gm#,June,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+53,"Thursday, Jun 1",boxscore,OAK,@,CLE,L,0,8,,23-30,5,14.5,Kluber,Cotton,,2:56,D,"19,767",-
+54,"Friday, Jun 2",boxscore,OAK,,WSN,L,3,13,,23-31,5,15.5,Strasburg,Triggs,,3:15,N,"20,813",--
+55,"Saturday, Jun 3",boxscore,OAK,,WSN,W,10,4,,24-31,5,15.5,Hendriks,Ross,,3:33,D,"23,921",+
+56,"Sunday, Jun 4",boxscore,OAK,,WSN,L,10,11,,24-32,5,16.5,Roark,Madson,Kelley,3:12,D,"21,265",-
+57,"Monday, Jun 5",boxscore,OAK,,TOR,W,5,3,,25-32,5,16.5,Manaea,Happ,Casilla,3:05,N,"12,890",+
+58,"Tuesday, Jun 6",boxscore,OAK,,TOR,W,4,1,,26-32,5,15.5,Hahn,Estrada,Casilla,2:45,N,"16,643",++
+59,"Wednesday, Jun 7",boxscore,OAK,,TOR,L,5,7,10,26-33,5,15.5,Tepera,Montas,Osuna,3:20,D,"15,076",-
+60,"Friday, Jun 9",boxscore,OAK,@,TBR,L,4,13,,26-34,5,16,Cobb,Triggs,,3:16,N,"13,153",--
+61,"Saturday, Jun 10 (1)",boxscore,OAK,@,TBR,L-wo,5,6,10,26-35,5,16.5,Pruitt,Hendriks,,3:56,D,,---
+62,"Saturday, Jun 10 (2)",boxscore,OAK,@,TBR,W,7,2,,27-35,5,16.5,Manaea,Hu,,3:06,D,"17,775",+
+63,"Sunday, Jun 11",boxscore,OAK,@,TBR,L,4,5,,27-36,5,16.5,Whitley,Coulombe,Colome,3:26,D,"13,640",-
+64,"Tuesday, Jun 13",boxscore,OAK,@,MIA,L,1,8,,27-37,5,16,Urena,Cotton,,2:57,N,"19,953",--
+65,"Wednesday, Jun 14",boxscore,OAK,@,MIA,L,6,11,,27-38,5,17,Barraclough,Gossett,,3:31,D,"19,436",---
+66,"Thursday, Jun 15",boxscore,OAK,,NYY,W-wo,8,7,10,28-38,5,16.5,Hendriks,Gallegos,,4:29,N,"21,838",+
+67,"Friday, Jun 16",boxscore,OAK,,NYY,W,7,6,,29-38,5,15.5,Coulombe,Holder,Casilla,3:13,N,"30,184",++
+68,"Saturday, Jun 17",boxscore,OAK,,NYY,W,5,2,,30-38,5,15.5,Hahn,Tanaka,Doolittle,3:17,D,"31,418",+++
+69,"Sunday, Jun 18",boxscore,OAK,,NYY,W,4,3,,31-38,5,14.5,Cotton,Cessa,Doolittle,2:55,D,"34,140",++++
+70,"Monday, Jun 19",boxscore,OAK,,HOU,L,1,4,,31-39,5,15.5,Peacock,Gossett,Giles,2:56,N,"10,482",-
+71,"Tuesday, Jun 20",boxscore,OAK,,HOU,L,4,8,,31-40,5,16.5,Martes,Gray,,3:28,N,"15,362",--
+72,"Wednesday, Jun 21",boxscore,OAK,,HOU,L,1,5,,31-41,5,17.5,Fiers,Manaea,,3:06,N,"12,277",---
+73,"Thursday, Jun 22",boxscore,OAK,,HOU,L,9,12,,31-42,5,18.5,Paulino,Hahn,Devenski,3:24,D,"18,747",----
+74,"Friday, Jun 23",boxscore,OAK,@,CHW,W,3,0,,32-42,5,17.5,Cotton,Pelfrey,Casilla,2:59,N,"25,370",+
+75,"Saturday, Jun 24",boxscore,OAK,@,CHW,W,10,2,,33-42,5,17.5,Gossett,Shields,,3:22,D,"38,618",++
+76,"Sunday, Jun 25",boxscore,OAK,@,CHW,W,5,3,,34-42,5,17.5,Gray,Kahnle,Casilla,3:33,D,"28,089",+++
+77,"Tuesday, Jun 27",boxscore,OAK,@,HOU,W,6,4,,35-42,5,16.5,Manaea,Fiers,Casilla,3:30,N,"28,312",++++
+78,"Wednesday, Jun 28",boxscore,OAK,@,HOU,L,8,11,,35-43,5,17.5,Feliz,Hahn,Giles,3:27,N,"34,075",-
+79,"Thursday, Jun 29",boxscore,OAK,@,HOU,L,1,6,,35-44,5,18.5,Peacock,Gossett,,3:08,D,"29,509",--
+80,"Friday, Jun 30",boxscore,OAK,,ATL,L,1,3,,35-45,5,18.5,Foltynewicz,Gray,Johnson,2:45,N,"19,286",---
+Gm#,July,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+81,"Saturday, Jul 1",boxscore,OAK,,ATL,L,3,4,,35-46,5,19.5,Freeman,Casilla,Johnson,3:16,D,"22,230",----
+82,"Sunday, Jul 2",boxscore,OAK,,ATL,L,3,4,12,35-47,5,20.5,Johnson,Axford,Vizcaino,4:11,D,"18,438",-----
+83,"Monday, Jul 3",boxscore,OAK,,CHW,L,2,7,,35-48,5,21,Rodon,Cotton,,3:33,N,"40,019",------
+84,"Tuesday, Jul 4",boxscore,OAK,,CHW,W-wo,7,6,,36-48,5,21,Casilla,Kahnle,,3:09,D,"16,314",+
+85,"Wednesday, Jul 5",boxscore,OAK,,CHW,W,7,4,,37-48,5,21,Gray,Pelfrey,,3:24,D,"13,813",++
+86,"Thursday, Jul 6",boxscore,OAK,@,SEA,W,7,4,,38-48,5,20,Blackburn,Gaviglio,,2:56,N,"18,368",+++
+87,"Friday, Jul 7",boxscore,OAK,@,SEA,L,2,7,,38-49,5,21,Paxton,Manaea,,2:39,N,"22,213",-
+88,"Saturday, Jul 8",boxscore,OAK,@,SEA,W,4,3,,39-49,5,20,Doolittle,Diaz,Casilla,2:54,N,"28,694",+
+89,"Sunday, Jul 9",boxscore,OAK,@,SEA,L,0,4,,39-50,5,21,Hernandez,Gossett,,2:39,D,"32,661",-
+90,"Friday, Jul 14",boxscore,OAK,,CLE,W,5,0,,40-50,5,21,Gray,Carrasco,,2:48,N,"19,870",+
+91,"Saturday, Jul 15",boxscore,OAK,,CLE,W-wo,5,3,,41-50,5,20,Madson,Miller,,2:35,N,"33,021",++
+92,"Sunday, Jul 16",boxscore,OAK,,CLE,W,7,3,,42-50,5,20,Manaea,Bauer,,3:08,D,"25,509",+++
+93,"Monday, Jul 17",boxscore,OAK,,TBR,L,2,3,,42-51,5,20,Odorizzi,Gossett,Colome,2:48,N,"9,736",-
+94,"Tuesday, Jul 18",boxscore,OAK,,TBR,L,3,4,,42-52,5,21,Kolarek,Casilla,Colome,2:50,N,"15,231",--
+95,"Wednesday, Jul 19",boxscore,OAK,,TBR,W,7,2,,43-52,5,20,Gray,Faria,,3:08,D,"17,019",+
+96,"Friday, Jul 21",boxscore,OAK,@,NYM,L,5,7,,43-53,5,21,Robles,Blackburn,Blevins,3:14,N,"26,969",-
+97,"Saturday, Jul 22",boxscore,OAK,@,NYM,L-wo,5,6,,43-54,5,22,Robles,Castro,,3:07,N,"39,629",--
+98,"Sunday, Jul 23",boxscore,OAK,@,NYM,W,3,2,,44-54,5,21,Gossett,Montero,Casilla,2:41,D,"29,037",+
+99,"Monday, Jul 24",boxscore,OAK,@,TOR,L,2,4,,44-55,5,22,Liriano,Smith,Osuna,2:37,N,"39,613",-
+100,"Tuesday, Jul 25",boxscore,OAK,@,TOR,L,1,4,,44-56,5,23,Valdez,Gray,Osuna,2:55,N,"40,624",--
+101,"Wednesday, Jul 26",boxscore,OAK,@,TOR,L-wo,2,3,,44-57,5,23,Biagini,Casilla,,2:51,N,"41,984",---
+102,"Thursday, Jul 27",boxscore,OAK,@,TOR,L-wo,4,8,10,44-58,5,23.5,Osuna,Hendriks,,3:28,D,"47,484",----
+103,"Friday, Jul 28",boxscore,OAK,,MIN,L,3,6,,44-59,5,24.5,Garcia,Gossett,Kintzler,3:19,N,"17,727",-----
+104,"Saturday, Jul 29",boxscore,OAK,,MIN,W-wo,5,4,,45-59,5,23.5,Coulombe,Rogers,,3:22,N,"27,047",+
+105,"Sunday, Jul 30",boxscore,OAK,,MIN,W-wo,6,5,12,46-59,5,22.5,Smith,Duffey,,4:06,D,"16,790",++
+106,"Monday, Jul 31",boxscore,OAK,,SFG,W,8,5,,47-59,5,22.5,Blackburn,Osich,Treinen,3:26,N,"38,391",+++
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+107,"Tuesday, Aug 1",boxscore,OAK,,SFG,L,4,10,,47-60,5,22.5,Samardzija,Manaea,,2:41,N,"38,871",-
+108,"Wednesday, Aug 2",boxscore,OAK,@,SFG,W,6,1,,48-60,5,21.5,Gossett,Moore,,2:48,N,"40,635",+
+109,"Thursday, Aug 3",boxscore,OAK,@,SFG,L,2,11,,48-61,5,21.5,Blach,Graveman,,2:28,N,"39,883",-
+110,"Friday, Aug 4",boxscore,OAK,@,LAA,L,6,8,,48-62,5,22.5,Chavez,Coulombe,Norris,3:31,N,"43,330",--
+111,"Saturday, Aug 5",boxscore,OAK,@,LAA,W,5,0,,49-62,5,21.5,Blackburn,Skaggs,,3:24,N,"39,180",+
+112,"Sunday, Aug 6",boxscore,OAK,@,LAA,W,11,10,,50-62,5,21.5,Smith,Norris,Treinen,4:12,D,"38,278",++
+113,"Tuesday, Aug 8",boxscore,OAK,,SEA,L,6,7,10,50-63,5,21.5,Rzepczynski,Smith,Diaz,3:20,N,"12,354",-
+114,"Wednesday, Aug 9",boxscore,OAK,,SEA,L,3,6,,50-64,5,21.5,Pagan,Cotton,Diaz,2:58,D,"14,989",--
+115,"Thursday, Aug 10",boxscore,OAK,,BAL,L,2,7,,50-65,5,21.5,Miley,Smith,Britton,3:09,N,"11,386",---
+116,"Friday, Aug 11",boxscore,OAK,,BAL,W,5,4,,51-65,5,20.5,Casilla,Brach,Treinen,2:48,N,"14,330",+
+117,"Saturday, Aug 12",boxscore,OAK,,BAL,L,5,12,,51-66,5,20.5,Bundy,Manaea,,3:20,N,"29,742",-
+118,"Sunday, Aug 13",boxscore,OAK,,BAL,W,9,3,,52-66,5,20.5,Graveman,Hellickson,,2:33,D,"18,912",+
+119,"Monday, Aug 14",boxscore,OAK,,KCR,L,2,6,,52-67,5,20.5,Junis,Cotton,,2:40,N,"9,848",-
+120,"Tuesday, Aug 15",boxscore,OAK,,KCR,W,10,8,,53-67,5,20.5,Treinen,Minor,,3:16,N,"13,875",+
+121,"Wednesday, Aug 16",boxscore,OAK,,KCR,L,6,7,,53-68,5,21.5,Maurer,Treinen,Herrera,3:37,D,"15,239",-
+122,"Friday, Aug 18",boxscore,OAK,@,HOU,L,1,3,,53-69,5,22,Keuchel,Manaea,Giles,2:47,N,"30,908",--
+123,"Saturday, Aug 19",boxscore,OAK,@,HOU,L,0,3,,53-70,5,23,McHugh,Graveman,Clippard,2:47,N,"32,796",---
+124,"Sunday, Aug 20",boxscore,OAK,@,HOU,W,3,2,,54-70,5,22,Cotton,Peacock,Treinen,3:17,D,"34,011",+
+125,"Monday, Aug 21",boxscore,OAK,@,BAL,L,3,7,,54-71,5,22.5,Miley,Smith,Britton,3:12,N,"16,020",-
+126,"Tuesday, Aug 22",boxscore,OAK,@,BAL,W,6,4,,55-71,5,21.5,Castro,Jimenez,Treinen,3:16,N,"18,493",+
+127,"Wednesday, Aug 23",boxscore,OAK,@,BAL,L-wo,7,8,12,55-72,5,22.5,Castro,Castro,,4:20,D,"20,072",-
+128,"Friday, Aug 25",boxscore,OAK,,TEX,W,3,1,,56-72,5,22,Graveman,Martinez,Treinen,2:26,N,"14,499",+
+129,"Saturday, Aug 26",boxscore,OAK,,TEX,W,8,3,,57-72,5,21,Manaea,Hamels,,3:21,D,"22,471",++
+130,"Sunday, Aug 27",boxscore,OAK,,TEX,W,8,3,,58-72,5,21,Cotton,Griffin,Treinen,3:20,D,"16,335",+++
+131,"Monday, Aug 28",boxscore,OAK,@,LAA,L,1,3,,58-73,5,21.5,Heaney,Gossett,Parker,2:53,N,"33,719",-
+132,"Tuesday, Aug 29",boxscore,OAK,@,LAA,L,2,8,,58-74,5,21.5,Chavez,Smith,,2:53,N,"36,229",--
+133,"Wednesday, Aug 30",boxscore,OAK,@,LAA,L,8,10,,58-75,5,21.5,Bedrosian,Hatcher,Parker,3:34,N,"36,022",---
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+134,"Friday, Sep 1",boxscore,OAK,@,SEA,L,2,3,,58-76,5,22.5,Leake,Manaea,Diaz,2:32,N,"19,030",----
+135,"Saturday, Sep 2",boxscore,OAK,@,SEA,L-wo,6,7,,58-77,5,24,Diaz,Treinen,,3:37,N,"22,245",-----
+136,"Sunday, Sep 3",boxscore,OAK,@,SEA,L,2,10,,58-78,5,25,Albers,Gossett,,3:21,D,"26,898",------
+137,"Monday, Sep 4",boxscore,OAK,,LAA,L,9,11,11,58-79,5,26,Salas,Treinen,Middleton,4:38,D,"14,571",-------
+138,"Tuesday, Sep 5",boxscore,OAK,,LAA,L,7,8,10,58-80,5,27,Bedrosian,Treinen,Paredes,4:12,N,"11,110",--------
+139,"Wednesday, Sep 6",boxscore,OAK,,LAA,W,3,1,,59-80,5,27,Manaea,Skaggs,Hatcher,3:10,D,"10,544",+
+140,"Friday, Sep 8",boxscore,OAK,,HOU,W-wo,9,8,,60-80,5,26,Treinen,Giles,,3:06,N,"12,288",++
+141,"Saturday, Sep 9 (1)",boxscore,OAK,,HOU,W,11,1,,61-80,5,24,Gossett,Morton,,3:42,D,,+++
+142,"Saturday, Sep 9 (2)",boxscore,OAK,,HOU,W,11,4,,62-80,5,24,Hatcher,Devenski,,2:48,D,"19,244",++++
+143,"Sunday, Sep 10",boxscore,OAK,,HOU,W,10,2,,63-80,5,23,Graveman,Keuchel,,3:48,D,"15,892",+++++
+144,"Tuesday, Sep 12",boxscore,OAK,@,BOS,L,1,11,,63-81,5,24,Rodriguez,Manaea,,3:06,N,"34,355",-
+145,"Wednesday, Sep 13",boxscore,OAK,@,BOS,W,7,3,,64-81,5,23,Cotton,Fister,,3:07,N,"36,366",+
+146,"Thursday, Sep 14",boxscore,OAK,@,BOS,L,2,6,,64-82,5,24,Pomeranz,Gossett,,3:19,D,"35,470",-
+147,"Friday, Sep 15",boxscore,OAK,@,PHI,W,4,0,,65-82,5,24,Mengden,Leiter,,2:43,N,"24,061",+
+148,"Saturday, Sep 16",boxscore,OAK,@,PHI,L,3,5,,65-83,5,25,Arano,Castro,Neris,2:56,N,"24,290",-
+149,"Sunday, Sep 17",boxscore,OAK,@,PHI,W,6,3,,66-83,5,25,Manaea,Alvarez,Treinen,3:09,D,"28,054",+
+150,"Monday, Sep 18",boxscore,OAK,@,DET,W,8,3,,67-83,5,24.5,Hendriks,Farmer,,3:39,N,"23,895",++
+151,"Tuesday, Sep 19",boxscore,OAK,@,DET,W,9,8,,68-83,5,24.5,Casilla,Wilson,Treinen,3:58,N,"23,460",+++
+152,"Wednesday, Sep 20",boxscore,OAK,@,DET,W,3,2,,69-83,5,24.5,Mengden,Sanchez,Hendriks,3:07,D,"26,913",++++
+153,"Friday, Sep 22",boxscore,OAK,,TEX,W,4,1,,70-83,5,24,Graveman,Martinez,Treinen,2:37,N,"13,848",+++++
+154,"Saturday, Sep 23",boxscore,OAK,,TEX,W,1,0,,71-83,5,24,Alcantara,Gonzalez,Treinen,2:38,N,"38,034",++++++
+155,"Sunday, Sep 24",boxscore,OAK,,TEX,W,8,1,,72-83,5,23,Cotton,Perez,,2:45,D,"18,601",+++++++
+156,"Monday, Sep 25",boxscore,OAK,,SEA,L,1,7,,72-84,5,24,Hernandez,Gossett,Albers,2:22,N,"9,329",-
+157,"Tuesday, Sep 26",preview,OAK,,SEA,10:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+158,"Wednesday, Sep 27",preview,OAK,,SEA,3:35 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+159,"Thursday, Sep 28",preview,OAK,@,TEX,8:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+160,"Friday, Sep 29",preview,OAK,@,TEX,8:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+161,"Saturday, Sep 30",preview,OAK,@,TEX,8:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+162,"Sunday, Oct 1",preview,OAK,@,TEX,3:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+Gm#,Date,,Tm,,Opp,,,,,,,,,,,,,,D/N

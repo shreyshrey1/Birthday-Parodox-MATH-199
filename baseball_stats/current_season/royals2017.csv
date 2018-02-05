@@ -1,0 +1,169 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,"Monday, Apr 3",boxscore,KCR,@,MIN,L,1,7,,0-1,5,1,Santana,Strahm,,2:47,D,"39,615",-
+2,"Wednesday, Apr 5",boxscore,KCR,@,MIN,L,1,9,,0-2,5,2.5,Santiago,Kennedy,,3:06,D,"15,171",--
+3,"Thursday, Apr 6",boxscore,KCR,@,MIN,L,3,5,,0-3,5,3,Rogers,Minor,Kintzler,3:14,D,"16,078",---
+4,"Friday, Apr 7",boxscore,KCR,@,HOU,W,5,1,,1-3,5,3,Vargas,Fiers,,3:12,N,"30,491",+
+5,"Saturday, Apr 8",boxscore,KCR,@,HOU,W,7,3,,2-3,5,2,Duffy,Gregerson,,2:42,N,"35,373",++
+6,"Sunday, Apr 9",boxscore,KCR,@,HOU,L-wo,4,5,12,2-4,5,3,Devenski,Strahm,,3:49,D,"32,411",-
+7,"Monday, Apr 10",boxscore,KCR,,OAK,L,0,2,,2-5,5,3.5,Cotton,Kennedy,Doolittle,2:50,D,"40,019",--
+8,"Wednesday, Apr 12",boxscore,KCR,,OAK,L,3,8,,2-6,5,4,Triggs,Hammel,,3:07,N,"24,380",---
+9,"Thursday, Apr 13",boxscore,KCR,,OAK,W,3,1,,3-6,5,3,Vargas,Hahn,Herrera,2:39,N,"22,160",+
+10,"Friday, Apr 14",boxscore,KCR,,LAA,W,7,1,,4-6,4,3,Duffy,Ramirez,,2:37,N,"26,838",++
+11,"Saturday, Apr 15",boxscore,KCR,,LAA,W,3,2,,5-6,4,2,Soria,Alvarez,Herrera,3:16,N,"24,162",+++
+12,"Sunday, Apr 16",boxscore,KCR,,LAA,W-wo,1,0,,6-6,4,2,Herrera,Parker,,2:37,D,"27,950",++++
+13,"Tuesday, Apr 18",boxscore,KCR,,SFG,L,1,2,11,6-7,5,2,Law,Alexander,Melancon,3:37,N,"20,863",-
+14,"Wednesday, Apr 19",boxscore,KCR,,SFG,W,2,0,,7-7,2,1,Vargas,Bumgarner,Herrera,2:28,N,"24,402",+
+15,"Thursday, Apr 20",boxscore,KCR,@,TEX,L-wo,0,1,13,7-8,4,1,Alvarez,Wood,,3:47,N,"26,898",-
+16,"Friday, Apr 21",boxscore,KCR,@,TEX,L,2,6,,7-9,5,2,Hamels,Karns,,2:45,N,"31,320",--
+17,"Saturday, Apr 22",boxscore,KCR,@,TEX,L-wo,1,2,,7-10,5,3,Bush,Wood,,2:38,N,"41,446",---
+18,"Sunday, Apr 23",boxscore,KCR,@,TEX,L,2,5,,7-11,5,3,Darvish,Hammel,Bush,3:00,D,"37,177",----
+19,"Monday, Apr 24",boxscore,KCR,@,CHW,L,1,12,,7-12,5,3.5,Gonzalez,Vargas,,2:47,N,"11,484",-----
+20,"Tuesday, Apr 25",boxscore,KCR,@,CHW,L,5,10,,7-13,5,4.5,Jennings,Duffy,,3:21,N,"14,591",------
+21,"Wednesday, Apr 26",boxscore,KCR,@,CHW,L,2,5,,7-14,5,4.5,Quintana,Karns,Robertson,2:58,D,"18,218",-------
+22,"Friday, Apr 28",boxscore,KCR,,MIN,L,4,6,,7-15,5,5.5,Breslow,Soria,Kintzler,3:20,N,"27,911",--------
+23,"Sunday, Apr 30",boxscore,KCR,,MIN,L,5,7,,7-16,5,6.5,Hughes,Hammel,Kintzler,3:11,D,"32,685",---------
+Gm#,May,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+24,"Monday, May 1",boxscore,KCR,,CHW,W,6,1,,8-16,5,5.5,Vargas,Covey,,2:36,N,"20,148",+
+25,"Tuesday, May 2",boxscore,KCR,,CHW,L,0,6,,8-17,5,6,Quintana,Duffy,,2:43,N,"18,604",-
+26,"Wednesday, May 3",boxscore,KCR,,CHW,W,6,1,,9-17,5,5.5,Karns,Pelfrey,,2:43,N,"22,298",+
+27,"Thursday, May 4",boxscore,KCR,,CHW,L,3,8,,9-18,5,6,Holland,Kennedy,,3:00,D,"36,525",-
+28,"Friday, May 5",boxscore,KCR,,CLE,W,3,1,,10-18,5,5.5,Hammel,Salazar,Herrera,2:50,N,"25,722",+
+29,"Saturday, May 6",boxscore,KCR,,CLE,L,1,3,,10-19,5,6,Miller,Herrera,Allen,2:37,D,"23,743",-
+30,"Sunday, May 7",boxscore,KCR,,CLE,L,0,1,,10-20,5,7,Clevinger,Duffy,Allen,2:51,D,"25,754",--
+31,"Monday, May 8",boxscore,KCR,@,TBR,W,7,3,,11-20,5,6,Karns,Snell,,3:18,N,"12,826",+
+32,"Tuesday, May 9",boxscore,KCR,@,TBR,W,7,6,12,12-20,5,6,Junis,Moreno,Herrera,4:24,N,"9,921",++
+33,"Wednesday, May 10",boxscore,KCR,@,TBR,L,1,12,,12-21,5,6,Archer,Hammel,,2:49,N,"9,320",-
+34,"Thursday, May 11",boxscore,KCR,@,TBR,W,6,0,,13-21,5,5.5,Vargas,Odorizzi,,2:41,D,"9,340",+
+35,"Friday, May 12",boxscore,KCR,,BAL,W,3,2,,14-21,5,5.5,Soria,Nuno,Herrera,2:37,N,"25,467",++
+36,"Saturday, May 13",boxscore,KCR,,BAL,W,4,3,,15-21,5,5.5,Maness,Asher,Herrera,3:04,N,"24,662",+++
+37,"Sunday, May 14",boxscore,KCR,,BAL,W,9,8,,16-21,5,4.5,Strahm,Bleier,Herrera,3:31,D,"30,662",++++
+38,"Tuesday, May 16",boxscore,KCR,,NYY,L,1,7,,16-22,5,4.5,Sabathia,Hammel,,3:02,N,"30,878",-
+39,"Wednesday, May 17",boxscore,KCR,,NYY,L,7,11,,16-23,5,5,Pineda,Vargas,Betances,3:23,N,"22,899",--
+40,"Thursday, May 18",boxscore,KCR,,NYY,W,5,1,,17-23,5,4.5,Duffy,Montgomery,,2:34,N,"22,803",+
+41,"Friday, May 19",boxscore,KCR,@,MIN,L-wo,3,4,10,17-24,5,5.5,Kintzler,Alburquerque,,3:20,N,"23,553",-
+42,"Sunday, May 21 (1)",boxscore,KCR,@,MIN,W,6,4,,18-24,5,5.5,Minor,Hughes,Herrera,3:21,D,,+
+43,"Sunday, May 21 (2)",boxscore,KCR,@,MIN,L,4,8,,18-25,5,5.5,Mejia,Kennedy,,2:29,D,"27,852",-
+44,"Monday, May 22",boxscore,KCR,@,NYY,L,2,4,,18-26,5,6.5,Pineda,Vargas,Betances,2:42,N,"35,005",--
+45,"Tuesday, May 23",boxscore,KCR,@,NYY,W,6,2,,19-26,5,6.5,Duffy,Warren,,2:47,N,"35,931",+
+46,"Wednesday, May 24",boxscore,KCR,@,NYY,L,0,3,,19-27,5,7.5,Severino,Hammel,Betances,2:40,N,"34,610",-
+47,"Friday, May 26",boxscore,KCR,@,CLE,W,6,4,,20-27,5,6.5,Minor,Shaw,Herrera,2:57,N,"29,603",+
+48,"Saturday, May 27",boxscore,KCR,@,CLE,W,5,2,,21-27,5,6.5,Vargas,Salazar,Herrera,3:06,D,"30,920",++
+49,"Sunday, May 28",boxscore,KCR,@,CLE,L,1,10,,21-28,5,6.5,Tomlin,Duffy,,2:48,D,"23,136",-
+50,"Monday, May 29",boxscore,KCR,,DET,L,7,10,,21-29,5,6.5,Rodriguez,Soria,Wilson,3:40,N,"28,419",--
+51,"Tuesday, May 30",boxscore,KCR,,DET,W,1,0,,22-29,5,5.5,Skoglund,Verlander,Herrera,2:45,N,"21,864",+
+52,"Wednesday, May 31",boxscore,KCR,,DET,L,5,6,,22-30,5,5.5,Saupold,Kennedy,Wilson,3:19,N,"24,347",-
+Gm#,June,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+53,"Friday, Jun 2",boxscore,KCR,,CLE,W,4,0,,23-30,5,6,Vargas,Tomlin,,2:19,N,"33,408",+
+54,"Saturday, Jun 3",boxscore,KCR,,CLE,W,12,5,,24-30,4,5,Hammel,Carrasco,,3:14,D,"26,497",++
+55,"Sunday, Jun 4",boxscore,KCR,,CLE,L,0,8,,24-31,4,6,Otero,Skoglund,,2:58,D,"28,185",-
+56,"Monday, Jun 5",boxscore,KCR,,HOU,L,3,7,,24-32,5,6.5,Fiers,Kennedy,,3:09,N,"21,892",--
+57,"Tuesday, Jun 6",boxscore,KCR,,HOU,W-wo,9,7,,25-32,5,5.5,Minor,Giles,,3:10,N,"20,974",+
+58,"Wednesday, Jun 7",boxscore,KCR,,HOU,W,7,5,,26-32,4,4.5,Vargas,Diaz,Herrera,3:11,N,"25,628",++
+59,"Thursday, Jun 8",boxscore,KCR,,HOU,L,1,6,,26-33,4,5.5,Harris,Herrera,,2:39,N,"32,747",-
+60,"Friday, Jun 9",boxscore,KCR,@,SDP,L,3,6,,26-34,4,6.5,Chacin,Strahm,Maurer,2:51,N,"23,055",--
+61,"Saturday, Jun 10",boxscore,KCR,@,SDP,W,12,6,,27-34,4,6.5,Wood,Hand,,3:44,D,"26,107",+
+62,"Sunday, Jun 11",boxscore,KCR,@,SDP,W,8,3,,28-34,4,5.5,Junis,Lamet,,2:27,D,"25,599",++
+63,"Tuesday, Jun 13",boxscore,KCR,@,SFG,W,8,1,,29-34,4,5,Vargas,Blach,,2:38,N,"41,284",+++
+64,"Wednesday, Jun 14",boxscore,KCR,@,SFG,W,7,2,,30-34,3,4,Hammel,Cueto,,3:03,D,"41,144",++++
+65,"Thursday, Jun 15",boxscore,KCR,@,LAA,W,7,2,,31-34,3,4,Strahm,Nolasco,,2:48,N,"34,884",+++++
+66,"Friday, Jun 16",boxscore,KCR,@,LAA,W,3,1,,32-34,3,3,Kennedy,Chavez,Herrera,2:38,N,"34,184",++++++
+67,"Saturday, Jun 17",boxscore,KCR,@,LAA,L,0,9,,32-35,3,3.5,Meyer,Junis,,2:51,N,"41,209",-
+68,"Sunday, Jun 18",boxscore,KCR,@,LAA,W,7,3,,33-35,3,3.5,Vargas,Ramirez,Herrera,3:28,D,"40,178",+
+69,"Monday, Jun 19",boxscore,KCR,,BOS,W,4,2,,34-35,3,3.5,Hammel,Boyer,Herrera,3:11,N,"27,992",++
+70,"Tuesday, Jun 20",boxscore,KCR,,BOS,L,3,8,,34-36,3,3.5,Sale,Strahm,,2:54,N,"25,983",-
+71,"Wednesday, Jun 21",boxscore,KCR,,BOS,W,6,4,,35-36,3,3.5,Soria,Scott,Herrera,3:07,D,"30,826",+
+72,"Friday, Jun 23",boxscore,KCR,,TOR,W-wo,5,4,,36-36,3,3,Soria,Loup,,3:16,N,"38,848",++
+73,"Saturday, Jun 24",boxscore,KCR,,TOR,W,3,2,,37-36,3,2,Vargas,Estrada,Herrera,2:26,D,"26,938",+++
+74,"Sunday, Jun 25",boxscore,KCR,,TOR,L,2,8,,37-37,3,2.5,Liriano,Alexander,,3:21,D,"37,182",-
+75,"Tuesday, Jun 27",boxscore,KCR,@,DET,L,3,5,,37-38,3,2.5,Verlander,Strahm,Wilson,3:14,N,"29,488",--
+76,"Wednesday, Jun 28",boxscore,KCR,@,DET,W,8,2,,38-38,3,2.5,Kennedy,Norris,,2:46,N,"29,614",+
+77,"Thursday, Jun 29",boxscore,KCR,@,DET,L,3,7,,38-39,3,3.5,Fulmer,Junis,,2:33,D,"33,681",-
+78,"Friday, Jun 30",boxscore,KCR,,MIN,W,8,1,,39-39,3,3,Vargas,Santana,,2:39,N,"34,332",+
+Gm#,July,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+79,"Saturday, Jul 1 (1)",boxscore,KCR,,MIN,W,11,6,,40-39,3,3,Minor,Duffey,,3:39,D,"25,571",++
+80,"Saturday, Jul 1 (2)",boxscore,KCR,,MIN,L,5,10,,40-40,3,3,Jorge,Hammel,,3:28,N,"32,448",-
+81,"Sunday, Jul 2",boxscore,KCR,,MIN,W,6,2,,41-40,2,3,Alexander,Santiago,,3:08,D,"28,775",+
+82,"Monday, Jul 3",boxscore,KCR,@,SEA,W,3,1,,42-40,2,2.5,Kennedy,Moore,Soria,2:28,N,"35,789",++
+83,"Tuesday, Jul 4",boxscore,KCR,@,SEA,W,7,3,,43-40,2,1.5,Duffy,Hernandez,,2:55,D,"25,555",+++
+84,"Wednesday, Jul 5",boxscore,KCR,@,SEA,W,9,6,10,44-40,2,0.5,Minor,Pazos,Herrera,3:34,N,"15,157",++++
+85,"Friday, Jul 7",boxscore,KCR,@,LAD,L,1,4,,44-41,3,2,Maeda,Hammel,Jansen,2:59,N,"48,017",-
+86,"Saturday, Jul 8",boxscore,KCR,@,LAD,L-wo,4,5,10,44-42,3,3,Stripling,Alexander,,3:43,D,"45,225",--
+87,"Sunday, Jul 9",boxscore,KCR,@,LAD,L,2,5,,44-43,3,3,Kershaw,Duffy,,2:16,D,"41,524",---
+88,"Friday, Jul 14",boxscore,KCR,,TEX,L,3,5,,44-44,3,3,Perez,Minor,Claudio,2:58,N,"35,591",----
+89,"Saturday, Jul 15",boxscore,KCR,,TEX,L,0,1,,44-45,3,3,Leclerc,Duffy,Claudio,2:32,N,"32,907",-----
+90,"Sunday, Jul 16",boxscore,KCR,,TEX,W-wo,4,3,,45-45,3,2,Herrera,Grilli,,3:11,D,"23,163",+
+91,"Monday, Jul 17",boxscore,KCR,,DET,L,2,10,,45-46,3,3,Zimmermann,Vargas,,3:29,N,"26,359",-
+92,"Tuesday, Jul 18",boxscore,KCR,,DET,L,3,9,,45-47,3,3,Boyd,Wood,,2:54,N,"22,908",--
+93,"Wednesday, Jul 19",boxscore,KCR,,DET,W-wo,4,3,,46-47,3,2,McCarthy,Wilson,,3:16,N,"30,105",+
+94,"Thursday, Jul 20",boxscore,KCR,,DET,W,16,4,,47-47,3,1.5,Duffy,Fulmer,,3:34,N,"29,018",++
+95,"Friday, Jul 21",boxscore,KCR,,CHW,W-wo,7,6,10,48-47,2,1.5,Feliz,Clippard,,4:10,N,"29,647",+++
+96,"Saturday, Jul 22",boxscore,KCR,,CHW,W,7,2,,49-47,2,1.5,Alexander,Holmberg,,3:20,N,"34,088",++++
+97,"Sunday, Jul 23",boxscore,KCR,,CHW,W-wo,5,4,,50-47,2,1.5,Herrera,Infante,,3:07,D,"23,184",+++++
+98,"Monday, Jul 24",boxscore,KCR,@,DET,W,5,3,12,51-47,2,1.5,Junis,VerHagen,Herrera,3:57,N,"26,415",++++++
+99,"Tuesday, Jul 25",boxscore,KCR,@,DET,W,3,1,,52-47,2,1.5,Duffy,Fulmer,Herrera,2:49,N,"27,259",+++++++
+100,"Wednesday, Jul 26",boxscore,KCR,@,DET,W,16,2,,53-47,2,1.5,Kennedy,Sanchez,,3:37,N,"29,073",++++++++
+101,"Friday, Jul 28",boxscore,KCR,@,BOS,W,4,2,,54-47,2,2,Vargas,Porcello,Herrera,2:44,N,"37,321",+++++++++
+102,"Saturday, Jul 29",boxscore,KCR,@,BOS,L-wo,8,9,10,54-48,2,3,Barnes,Minor,,4:45,N,"36,912",-
+103,"Sunday, Jul 30",boxscore,KCR,@,BOS,W,5,3,,55-48,2,2,Hammel,Barnes,Herrera,3:13,D,"36,480",+
+104,"Monday, Jul 31",boxscore,KCR,@,BAL,L-wo,1,2,,55-49,2,2,Britton,Soria,,2:33,N,"20,663",-
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+105,"Tuesday, Aug 1",boxscore,KCR,@,BAL,L,2,7,,55-50,2,2,Bundy,Kennedy,,2:54,N,"20,931",--
+106,"Wednesday, Aug 2",boxscore,KCR,@,BAL,L,0,6,,55-51,2,2.5,Hellickson,Vargas,,2:47,N,"14,984",---
+107,"Thursday, Aug 3",boxscore,KCR,,SEA,W,6,4,,56-51,2,2.5,Buchter,Pagan,Herrera,3:01,N,"29,228",+
+108,"Friday, Aug 4",boxscore,KCR,,SEA,L,2,5,,56-52,2,3.5,Paxton,Hammel,Diaz,2:47,N,"38,130",-
+109,"Sunday, Aug 6 (1)",boxscore,KCR,,SEA,L,7,8,,56-53,2,2.5,Pazos,Duffy,Diaz,3:03,D,,--
+110,"Sunday, Aug 6 (2)",boxscore,KCR,,SEA,W,9,1,,57-53,2,2.5,Junis,Ramirez,,2:39,D,"29,432",+
+111,"Monday, Aug 7",boxscore,KCR,,STL,L,3,11,,57-54,2,3,Martinez,Kennedy,,2:32,N,"38,478",-
+112,"Tuesday, Aug 8",boxscore,KCR,,STL,L,3,10,,57-55,2,4,Wacha,Vargas,,3:02,N,"37,267",--
+113,"Wednesday, Aug 9",boxscore,KCR,@,STL,L,5,8,,57-56,2,4,Bowman,Maurer,Rosenthal,3:15,N,"44,139",---
+114,"Thursday, Aug 10",boxscore,KCR,@,STL,L,6,8,,57-57,3,4,Lyons,Minor,Rosenthal,3:37,N,"41,706",----
+115,"Friday, Aug 11",boxscore,KCR,@,CHW,L,3,6,,57-58,3,5,Bummer,Duffy,Clippard,2:49,N,"18,137",-----
+116,"Saturday, Aug 12",boxscore,KCR,@,CHW,W,5,4,,58-58,3,5,Alexander,Bummer,Herrera,3:12,N,"20,413",+
+117,"Sunday, Aug 13",boxscore,KCR,@,CHW,W,14,6,,59-58,3,5,Vargas,Holland,,3:38,D,"27,351",++
+118,"Monday, Aug 14",boxscore,KCR,@,OAK,W,6,2,,60-58,2,5,Junis,Cotton,,2:40,N,"9,848",+++
+119,"Tuesday, Aug 15",boxscore,KCR,@,OAK,L,8,10,,60-59,2,6,Treinen,Minor,,3:16,N,"13,875",-
+120,"Wednesday, Aug 16",boxscore,KCR,@,OAK,W,7,6,,61-59,2,5.5,Maurer,Treinen,Herrera,3:37,D,"15,239",+
+121,"Friday, Aug 18",boxscore,KCR,,CLE,L,1,10,,61-60,3,6.5,Kluber,Kennedy,,2:58,N,"35,974",-
+122,"Saturday, Aug 19",boxscore,KCR,,CLE,L,0,5,,61-61,3,7.5,Bauer,Vargas,,2:50,N,"34,204",--
+123,"Sunday, Aug 20",boxscore,KCR,,CLE,W,7,4,,62-61,3,6.5,Hammel,Salazar,,3:02,D,"27,417",+
+124,"Tuesday, Aug 22",boxscore,KCR,,COL,W,3,2,,63-61,3,6,Duffy,Gray,Alexander,2:51,N,"22,868",++
+125,"Wednesday, Aug 23",boxscore,KCR,,COL,W-wo,6,4,,64-61,3,5,Maurer,Holland,,3:36,N,"25,752",+++
+126,"Thursday, Aug 24",boxscore,KCR,,COL,L,2,3,,64-62,3,6,Ottavino,Minor,Holland,2:43,D,"25,314",-
+127,"Friday, Aug 25",boxscore,KCR,@,CLE,L,0,4,,64-63,3,7,Merritt,Vargas,,2:44,N,"34,061",--
+128,"Saturday, Aug 26",boxscore,KCR,@,CLE,L,0,4,,64-64,3,8,Clevinger,Hammel,,2:38,N,"34,273",---
+129,"Sunday, Aug 27",boxscore,KCR,@,CLE,L,0,12,,64-65,3,9,Carrasco,Skoglund,,2:39,D,"32,229",----
+130,"Monday, Aug 28",boxscore,KCR,,TBR,L,0,12,,64-66,3,10,Pruitt,Kennedy,Andriese,2:43,N,"21,866",-----
+131,"Tuesday, Aug 29",boxscore,KCR,,TBR,W,6,2,,65-66,3,9.5,Junis,Cobb,,2:57,N,"25,204",+
+132,"Wednesday, Aug 30",boxscore,KCR,,TBR,L,3,5,,65-67,3,11,Odorizzi,Vargas,Colome,2:39,N,"25,916",-
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+133,"Friday, Sep 1",boxscore,KCR,@,MIN,W,7,6,,66-67,3,11.5,Hammel,Gee,Alexander,3:23,N,"24,068",+
+134,"Saturday, Sep 2",boxscore,KCR,@,MIN,L,0,17,,66-68,3,12.5,Gibson,Garcia,,3:05,N,"33,413",-
+135,"Sunday, Sep 3",boxscore,KCR,@,MIN,W,5,4,,67-68,3,12.5,Alexander,Busenitz,Maurer,3:18,D,"32,234",+
+136,"Monday, Sep 4",boxscore,KCR,@,DET,W,7,6,,68-68,3,12.5,Junis,Lewicki,Alexander,3:13,D,"24,804",++
+137,"Tuesday, Sep 5",boxscore,KCR,@,DET,L,2,13,,68-69,3,13.5,Jaye,Vargas,,3:00,N,"22,547",-
+138,"Wednesday, Sep 6",boxscore,KCR,@,DET,W,13,2,,69-69,3,13.5,Hammel,Boyd,,3:27,N,"23,755",+
+139,"Thursday, Sep 7",boxscore,KCR,,MIN,L,2,4,,69-70,3,14.5,Hildenberger,Herrera,Belisle,2:56,N,"26,485",-
+140,"Friday, Sep 8",boxscore,KCR,,MIN,L,5,8,,69-71,3,15.5,Santana,Kennedy,Belisle,3:05,N,"31,879",--
+141,"Saturday, Sep 9",boxscore,KCR,,MIN,W,5,2,,70-71,3,15.5,Minor,Pressly,Maurer,2:51,N,"29,991",+
+142,"Sunday, Sep 10",boxscore,KCR,,MIN,W,11,3,,71-71,3,15.5,Vargas,Colon,,2:55,D,"35,003",++
+143,"Monday, Sep 11",boxscore,KCR,,CHW,L,3,11,,71-72,3,16.5,Lopez,Hammel,,3:16,N,"23,135",-
+144,"Tuesday, Sep 12",boxscore,KCR,,CHW,W,4,3,,72-72,3,16.5,Gaviglio,Covey,Alexander,2:42,D,"17,727",+
+145,"Wednesday, Sep 13",boxscore,KCR,,CHW,L,3,5,,72-73,3,17.5,Minaya,Alexander,,3:23,D,"25,665",-
+146,"Thursday, Sep 14",boxscore,KCR,@,CLE,L-wo,2,3,10,72-74,3,18.5,Allen,Maurer,,3:21,N,"30,874",--
+147,"Friday, Sep 15",boxscore,KCR,@,CLE,W,4,3,,73-74,3,17.5,Vargas,Bauer,Minor,3:11,N,"34,025",+
+148,"Saturday, Sep 16",boxscore,KCR,@,CLE,L,4,8,,73-75,3,18.5,Carrasco,Hammel,,2:44,D,"33,688",-
+149,"Sunday, Sep 17",boxscore,KCR,@,CLE,L,2,3,,73-76,3,19.5,Kluber,Duffy,Allen,2:59,D,"32,313",--
+150,"Tuesday, Sep 19",boxscore,KCR,@,TOR,L,2,5,,73-77,3,20.5,Stroman,Kennedy,Osuna,2:27,N,"33,554",---
+151,"Wednesday, Sep 20",boxscore,KCR,@,TOR,W,15,5,,74-77,3,20.5,Junis,Anderson,,3:01,N,"33,050",+
+152,"Thursday, Sep 21",boxscore,KCR,@,TOR,W,1,0,,75-77,3,20.5,Vargas,Happ,Minor,2:39,N,"35,861",++
+153,"Friday, Sep 22",boxscore,KCR,@,CHW,L,6,7,,75-78,3,20.5,Lopez,Hammel,Minaya,3:22,N,"18,041",-
+154,"Saturday, Sep 23",boxscore,KCR,@,CHW,W,8,2,,76-78,3,20.5,Duffy,Covey,,3:02,N,"20,306",+
+155,"Sunday, Sep 24",boxscore,KCR,@,CHW,L,1,8,,76-79,3,21.5,Giolito,Kennedy,,2:42,D,"18,791",-
+156,"Monday, Sep 25",boxscore,KCR,@,NYY,L,3,11,,76-80,3,22,Sabathia,Junis,,2:51,D,"40,023",--
+157,"Tuesday, Sep 26",preview,KCR,,DET,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+158,"Wednesday, Sep 27",preview,KCR,,DET,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+159,"Thursday, Sep 28",preview,KCR,,DET,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+160,"Friday, Sep 29",preview,KCR,,ARI,8:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+161,"Saturday, Sep 30",preview,KCR,,ARI,7:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+162,"Sunday, Oct 1",preview,KCR,,ARI,3:15 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+Gm#,Date,,Tm,,Opp,,,,,,,,,,,,,,D/N

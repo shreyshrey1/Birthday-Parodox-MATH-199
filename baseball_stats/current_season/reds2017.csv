@@ -1,0 +1,169 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,"Monday, Apr 3",boxscore,CIN,,PHI,L,3,4,,0-1,2,1,Hellickson,Feldman,Gomez,3:04,D,"43,804",-
+2,"Wednesday, Apr 5",boxscore,CIN,,PHI,W,2,0,,1-1,1,Tied,Finnegan,Eickhoff,Iglesias,2:25,N,"19,944",+
+3,"Thursday, Apr 6",boxscore,CIN,,PHI,W,7,4,,2-1,1,Tied,Reed,Morgan,Storen,3:05,D,"10,586",++
+4,"Friday, Apr 7",boxscore,CIN,@,STL,W,2,0,,3-1,1,up 1.0,Garrett,Leake,Iglesias,2:17,N,"44,653",+++
+5,"Saturday, Apr 8",boxscore,CIN,@,STL,L,4,10,,3-2,1,Tied,Wacha,Arroyo,,2:47,D,"46,558",-
+6,"Sunday, Apr 9",boxscore,CIN,@,STL,W,8,0,,4-2,1,Tied,Feldman,Martinez,,2:44,D,"45,200",+
+7,"Monday, Apr 10",boxscore,CIN,@,PIT,W,7,1,,5-2,1,Tied,Lorenzen,Glasnow,,3:05,N,"28,264",++
+8,"Tuesday, Apr 11",boxscore,CIN,@,PIT,W,6,2,,6-2,1,up 0.5,Storen,Nicasio,Iglesias,3:04,N,"11,027",+++
+9,"Wednesday, Apr 12",boxscore,CIN,@,PIT,W,9,2,,7-2,1,up 1.5,Garrett,Nova,,2:54,N,"12,327",++++
+10,"Thursday, Apr 13",boxscore,CIN,,MIL,L,1,5,,7-3,1,up 0.5,Nelson,Arroyo,,2:25,N,"13,574",-
+11,"Friday, Apr 14",boxscore,CIN,,MIL,L,4,10,,7-4,1,up 0.5,Milone,Wood,,3:21,N,"23,850",--
+12,"Saturday, Apr 15",boxscore,CIN,,MIL,W,7,5,,8-4,1,up 1.5,Iglesias,Torres,Lorenzen,3:10,D,"31,008",+
+13,"Sunday, Apr 16",boxscore,CIN,,MIL,L,2,4,,8-5,1,up 1.0,Peralta,Romano,Feliz,2:56,D,"12,625",-
+14,"Tuesday, Apr 18",boxscore,CIN,,BAL,W,9,3,,9-5,1,up 1.5,Arroyo,Gausman,,3:05,N,"16,018",+
+15,"Wednesday, Apr 19",boxscore,CIN,,BAL,L,0,2,,9-6,1,up 1.0,Jimenez,Garrett,Brach,2:28,N,"15,083",-
+16,"Thursday, Apr 20",boxscore,CIN,,BAL,L,1,2,10,9-7,1,up 0.5,O'Day,Wood,Brach,2:37,N,"11,910",--
+17,"Friday, Apr 21",boxscore,CIN,,CHC,L,5,6,11,9-8,2,0.5,Edwards,Stephenson,Davis,3:57,N,"29,350",---
+18,"Saturday, Apr 22",boxscore,CIN,,CHC,L,8,12,,9-9,2,1.5,Arrieta,Reed,,3:24,D,"27,189",----
+19,"Sunday, Apr 23",boxscore,CIN,,CHC,W,7,5,,10-9,2,0.5,Arroyo,Lackey,,2:26,D,"32,670",+
+20,"Monday, Apr 24",boxscore,CIN,@,MIL,L,7,11,,10-10,2,1.5,Torres,Garrett,,3:24,N,"23,943",-
+21,"Tuesday, Apr 25",boxscore,CIN,@,MIL,L,1,9,,10-11,3,2.5,Davies,Feldman,Milone,2:59,N,"28,449",--
+22,"Wednesday, Apr 26",boxscore,CIN,@,MIL,L,4,9,,10-12,3,2.5,Peralta,Davis,,2:53,D,"19,062",---
+23,"Friday, Apr 28",boxscore,CIN,@,STL,L,5,7,,10-13,5,2.5,Lynn,Adleman,Oh,3:08,N,"42,722",----
+24,"Sunday, Apr 30",boxscore,CIN,@,STL,W,5,4,,11-13,4,2,Peralta,Rosenthal,Iglesias,3:20,D,"45,282",+
+Gm#,May,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+25,"Monday, May 1",boxscore,CIN,,PIT,W-wo,4,3,10,12-13,3,1,Lorenzen,Hudson,,3:13,N,"14,753",++
+26,"Tuesday, May 2",boxscore,CIN,,PIT,L,3,12,,12-14,4,2,Glasnow,Feldman,LeBlanc,3:00,N,"13,909",-
+27,"Wednesday, May 3",boxscore,CIN,,PIT,W,7,2,,13-14,4,2,Davis,Taillon,,2:48,N,"14,297",+
+28,"Thursday, May 4",boxscore,CIN,,PIT,W,4,2,,14-14,3,2,Adleman,Nova,Iglesias,2:40,D,"17,896",++
+29,"Friday, May 5",boxscore,CIN,,SFG,W,13,3,,15-14,2,1,Arroyo,Cain,,3:15,N,"22,724",+++
+30,"Saturday, May 6",boxscore,CIN,,SFG,W,14,2,,16-14,1,Tied,Garrett,Blach,Stephenson,2:46,N,"20,213",++++
+31,"Sunday, May 7",boxscore,CIN,,SFG,W,4,0,,17-14,1,up 0.5,Feldman,Cueto,,2:28,D,"21,142",+++++
+32,"Monday, May 8",boxscore,CIN,,NYY,L,4,10,,17-15,2,0.5,Tanaka,Davis,,3:28,N,"25,960",-
+33,"Tuesday, May 9",boxscore,CIN,,NYY,W,5,3,,18-15,2,0.5,Adleman,Sabathia,Iglesias,2:49,N,"22,035",+
+34,"Thursday, May 11",boxscore,CIN,@,SFG,W,3,2,,19-15,2,0.5,Peralta,Strickland,Iglesias,2:36,N,"41,193",++
+35,"Friday, May 12",boxscore,CIN,@,SFG,L-wo,2,3,17,19-16,2,0.5,Gearrin,Stephenson,,5:28,N,"41,325",-
+36,"Saturday, May 13",boxscore,CIN,@,SFG,L,1,3,,19-17,3,1.5,Moore,Bonilla,Law,2:33,D,"41,269",--
+37,"Sunday, May 14",boxscore,CIN,@,SFG,L,3,8,,19-18,3,2.5,Samardzija,Adleman,,2:55,D,"42,122",---
+38,"Tuesday, May 16",boxscore,CIN,@,CHC,L,5,9,,19-19,3,2.5,Lackey,Arroyo,,3:07,N,"40,653",----
+39,"Wednesday, May 17",boxscore,CIN,@,CHC,L,5,7,,19-20,4,3,Hendricks,Feldman,Davis,3:06,N,"38,715",-----
+40,"Thursday, May 18",boxscore,CIN,@,CHC,L,5,9,,19-21,4,4,Lester,Garrett,Uehara,3:03,D,"36,023",------
+41,"Friday, May 19",boxscore,CIN,,COL,L,6,12,,19-22,4,5,Anderson,Bonilla,,3:38,N,"23,184",-------
+42,"Saturday, May 20",boxscore,CIN,,COL,W,12,8,,20-22,4,4.5,Wojciechowski,Dunn,,3:32,D,"25,188",+
+43,"Sunday, May 21",boxscore,CIN,,COL,L,4,6,,20-23,4,4.5,Freeland,Arroyo,Holland,3:14,D,"23,352",-
+44,"Monday, May 22",boxscore,CIN,,CLE,W,5,1,,21-23,4,4,Feldman,Tomlin,,2:39,N,"26,794",+
+45,"Tuesday, May 23",boxscore,CIN,,CLE,L,7,8,,21-24,4,4,Miller,Storen,Allen,3:16,N,"26,334",-
+46,"Wednesday, May 24",boxscore,CIN,@,CLE,W,4,3,,22-24,4,3,Lorenzen,Allen,Iglesias,3:07,N,"19,426",+
+47,"Friday, May 26",boxscore,CIN,@,PHI,W,5,2,,23-24,4,2,Adleman,Nola,Iglesias,2:34,N,"21,388",++
+48,"Saturday, May 27",boxscore,CIN,@,PHI,L-wo,3,4,,23-25,4,2.5,Neris,Lorenzen,,2:47,D,"30,100",-
+49,"Sunday, May 28",boxscore,CIN,@,PHI,W,8,4,,24-25,4,2.5,Feldman,Eflin,,2:50,D,"25,413",+
+50,"Monday, May 29",boxscore,CIN,@,TOR,L,2,17,,24-26,4,2.5,Stroman,Bonilla,,3:06,N,"29,844",-
+51,"Tuesday, May 30",boxscore,CIN,@,TOR,L,4,6,,24-27,4,2.5,Smith,Wood,Osuna,2:53,N,"32,747",--
+52,"Wednesday, May 31",boxscore,CIN,@,TOR,L,4,5,,24-28,4,3.5,Grilli,Peralta,Osuna,2:53,D,"44,058",---
+Gm#,June,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+53,"Friday, Jun 2",boxscore,CIN,,ATL,W-wo,3,2,10,25-28,4,3,Iglesias,Ramirez,,3:03,N,"27,300",+
+54,"Saturday, Jun 3",boxscore,CIN,,ATL,L,5,6,12,25-29,4,3,Johnson,Wood,,4:20,D,"26,485",-
+55,"Sunday, Jun 4",boxscore,CIN,,ATL,L,8,13,,25-30,4,4,Teheran,Garrett,,3:23,D,"26,227",--
+56,"Monday, Jun 5",boxscore,CIN,,STL,W,4,2,,26-30,4,3,Bonilla,Martinez,Iglesias,2:35,N,"16,325",+
+57,"Tuesday, Jun 6",boxscore,CIN,,STL,W,13,1,,27-30,3,3,Adleman,Wainwright,,2:47,N,"18,620",++
+58,"Wednesday, Jun 7",boxscore,CIN,,STL,W,6,4,,28-30,3,3,Peralta,Cecil,Iglesias,2:45,N,"20,891",+++
+59,"Thursday, Jun 8",boxscore,CIN,,STL,W,5,2,,29-30,3,2,Feldman,Leake,Iglesias,2:21,D,"28,917",++++
+60,"Friday, Jun 9",boxscore,CIN,@,LAD,L,2,7,,29-31,3,3,Hill,Garrett,Maeda,3:02,N,"44,036",-
+61,"Saturday, Jun 10",boxscore,CIN,@,LAD,L-wo,4,5,,29-32,3,3,Jansen,Storen,,3:04,N,"43,439",--
+62,"Sunday, Jun 11",boxscore,CIN,@,LAD,L,7,9,,29-33,4,3,Avilan,Iglesias,Jansen,2:58,D,"42,674",---
+63,"Monday, Jun 12",boxscore,CIN,@,SDP,L,3,9,,29-34,4,3.5,Perdomo,Arroyo,,2:39,N,"17,006",----
+64,"Tuesday, Jun 13",boxscore,CIN,@,SDP,L,2,6,,29-35,5,4,Richard,Feldman,Maurer,2:35,N,"20,463",-----
+65,"Wednesday, Jun 14",boxscore,CIN,@,SDP,L,2,4,,29-36,5,5,Chacin,Lorenzen,Maurer,2:26,D,"20,386",------
+66,"Friday, Jun 16",boxscore,CIN,,LAD,L,1,3,,29-37,5,6.5,Wood,Adleman,Jansen,2:45,N,"35,613",-------
+67,"Saturday, Jun 17",boxscore,CIN,,LAD,L,2,10,,29-38,5,6.5,Ryu,Wojciechowski,,3:28,D,"42,431",--------
+68,"Sunday, Jun 18",boxscore,CIN,,LAD,L,7,8,,29-39,5,7.5,Maeda,Arroyo,Jansen,3:20,D,"27,316",---------
+69,"Monday, Jun 19",boxscore,CIN,@,TBR,W,7,3,,30-39,5,6.5,Lorenzen,Alvarado,,3:08,N,"17,117",+
+70,"Tuesday, Jun 20",boxscore,CIN,@,TBR,L,5,6,,30-40,5,6.5,Cobb,Garrett,Colome,3:20,N,"13,375",-
+71,"Wednesday, Jun 21",boxscore,CIN,@,TBR,L,3,8,,30-41,5,7.5,Ramirez,Adleman,Whitley,3:16,D,"19,619",--
+72,"Friday, Jun 23",boxscore,CIN,@,WSN,L-wo,5,6,10,30-42,5,8,Albers,Iglesias,,3:51,N,"36,347",---
+73,"Saturday, Jun 24",boxscore,CIN,@,WSN,L,3,18,,30-43,5,8,Ross,Bailey,,3:22,D,"40,139",----
+74,"Sunday, Jun 25",boxscore,CIN,@,WSN,W,6,2,,31-43,5,8,Feldman,Roark,,3:07,D,"35,387",+
+75,"Monday, Jun 26",boxscore,CIN,@,STL,L,2,8,,31-44,5,8.5,Wacha,Finnegan,,2:49,D,"46,535",-
+76,"Tuesday, Jun 27",boxscore,CIN,,MIL,W,8,6,,32-44,5,7.5,Adleman,Guerra,Iglesias,2:55,N,"18,577",+
+77,"Wednesday, Jun 28",boxscore,CIN,,MIL,W,4,3,,33-44,5,6.5,Storen,Knebel,Iglesias,2:56,N,"21,842",++
+78,"Thursday, Jun 29",boxscore,CIN,,MIL,L,3,11,,33-45,5,7.5,Nelson,Bailey,,3:15,N,"20,419",-
+79,"Friday, Jun 30",boxscore,CIN,,CHC,W,5,0,,34-45,5,7.5,Feldman,Montgomery,,2:37,N,"39,501",+
+Gm#,July,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+80,"Saturday, Jul 1",boxscore,CIN,,CHC,W,5,3,,35-45,5,7.5,Stephens,Butler,Iglesias,3:02,D,"39,826",++
+81,"Sunday, Jul 2",boxscore,CIN,,CHC,L,2,6,,35-46,5,7.5,Arrieta,Adleman,,3:08,D,"38,536",-
+82,"Monday, Jul 3",boxscore,CIN,@,COL,L,3,5,,35-47,5,8.5,Hoffman,Castillo,Holland,2:48,N,"49,131",--
+83,"Tuesday, Jul 4",boxscore,CIN,@,COL,W,8,1,,36-47,5,8.5,Bailey,Freeland,,2:58,N,"48,338",+
+84,"Wednesday, Jul 5",boxscore,CIN,@,COL,L,3,5,,36-48,5,9.5,Gray,Feldman,Holland,3:24,N,"32,188",-
+85,"Thursday, Jul 6",boxscore,CIN,@,COL,W,6,3,,37-48,5,9.5,Romano,Chatwood,,3:04,D,"27,328",+
+86,"Friday, Jul 7",boxscore,CIN,@,ARI,L,3,6,,37-49,5,10.5,Greinke,Adleman,Rodney,2:57,N,"27,006",-
+87,"Saturday, Jul 8",boxscore,CIN,@,ARI,W,7,0,,38-49,5,9.5,Castillo,Walker,,3:00,N,"29,806",+
+88,"Sunday, Jul 9",boxscore,CIN,@,ARI,W,2,1,,39-49,5,9.5,Bailey,Corbin,Iglesias,2:53,D,"24,923",++
+89,"Friday, Jul 14",boxscore,CIN,,WSN,L,0,5,,39-50,5,10.5,Gonzalez,Adleman,Grace,2:55,N,"28,916",-
+90,"Saturday, Jul 15",boxscore,CIN,,WSN,L,7,10,,39-51,5,11.5,Scherzer,Castillo,Grace,3:32,N,"36,462",--
+91,"Sunday, Jul 16",boxscore,CIN,,WSN,L,4,14,,39-52,5,11.5,Roark,Bailey,,3:31,D,"25,712",---
+92,"Monday, Jul 17",boxscore,CIN,,WSN,L,1,6,,39-53,5,11.5,Strasburg,Feldman,,2:58,D,"17,574",----
+93,"Tuesday, Jul 18",boxscore,CIN,,ARI,L,2,11,,39-54,5,11.5,Ray,Romano,,3:05,N,"19,989",-----
+94,"Wednesday, Jul 19",boxscore,CIN,,ARI,W-wo,4,3,11,40-54,5,10.5,Lorenzen,McFarland,,3:59,N,"16,573",+
+95,"Thursday, Jul 20",boxscore,CIN,,ARI,L,2,12,,40-55,5,10.5,Corbin,Castillo,,2:47,D,"19,711",-
+96,"Friday, Jul 21",boxscore,CIN,,MIA,L,1,3,,40-56,5,10.5,Urena,Bailey,Ramos,2:57,N,"21,851",--
+97,"Saturday, Jul 22",boxscore,CIN,,MIA,L,4,5,,40-57,5,11.5,Wittgren,Stephenson,Ramos,3:12,N,"24,099",---
+98,"Sunday, Jul 23",boxscore,CIN,,MIA,W,6,3,,41-57,5,10.5,Romano,Koehler,Iglesias,2:58,D,"20,526",+
+99,"Monday, Jul 24",boxscore,CIN,@,CLE,L,2,6,,41-58,5,11,Tomlin,Adleman,,2:26,N,"21,500",-
+100,"Tuesday, Jul 25",boxscore,CIN,@,NYY,L,2,4,,41-59,5,12,Montgomery,Castillo,Chapman,2:38,N,"44,268",--
+101,"Wednesday, Jul 26",boxscore,CIN,@,NYY,L,5,9,,41-60,5,12.5,Severino,Bailey,,2:52,D,"42,421",---
+102,"Thursday, Jul 27",boxscore,CIN,@,MIA,L,1,4,,41-61,5,13.5,O'Grady,Stephenson,Ramos,3:18,N,"19,986",----
+103,"Friday, Jul 28",boxscore,CIN,@,MIA,L,4,7,,41-62,5,13.5,McGowan,Peralta,,2:54,N,"17,440",-----
+104,"Saturday, Jul 29",boxscore,CIN,@,MIA,L,3,7,,41-63,5,14.5,Conley,Adleman,,2:32,N,"20,297",------
+105,"Sunday, Jul 30",boxscore,CIN,@,MIA,W,6,4,,42-63,5,14.5,Castillo,Straily,,3:04,D,"19,747",+
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+106,"Tuesday, Aug 1",boxscore,CIN,@,PIT,W,9,1,,43-63,5,14.5,Bailey,Taillon,,3:00,N,"22,403",++
+107,"Wednesday, Aug 2",boxscore,CIN,@,PIT,W,5,2,,44-63,5,13.5,Lorenzen,Benoit,Iglesias,3:25,N,"22,367",+++
+108,"Thursday, Aug 3",boxscore,CIN,@,PIT,L,0,6,,44-64,5,13.5,Kuhl,Romano,,2:29,N,"25,955",-
+109,"Friday, Aug 4",boxscore,CIN,,STL,W,3,2,,45-64,5,12.5,Wojciechowski,Leake,Iglesias,2:48,N,"36,443",+
+110,"Saturday, Aug 5",boxscore,CIN,,STL,L,1,4,,45-65,5,13.5,Lynn,Castillo,Rosenthal,3:01,N,"35,571",-
+111,"Sunday, Aug 6",boxscore,CIN,,STL,L,4,13,,45-66,5,13.5,Cecil,Bailey,,3:10,D,"25,168",--
+112,"Monday, Aug 7",boxscore,CIN,,SDP,W,11,3,,46-66,5,13.5,Wood,Chacin,,3:06,N,"16,240",+
+113,"Tuesday, Aug 8",boxscore,CIN,,SDP,L,3,7,,46-67,5,13.5,Perdomo,Romano,,2:56,N,"13,683",-
+114,"Wednesday, Aug 9",boxscore,CIN,,SDP,W,8,3,,47-67,5,12.5,Wojciechowski,Wood,,2:59,N,"15,450",+
+115,"Thursday, Aug 10",boxscore,CIN,,SDP,W,10,3,,48-67,5,12,Storen,Yates,,2:57,D,"14,915",++
+116,"Friday, Aug 11",boxscore,CIN,@,MIL,W,11,10,,49-67,5,12,Bailey,Nelson,Iglesias,3:55,N,"34,517",+++
+117,"Saturday, Aug 12",boxscore,CIN,@,MIL,L-wo,5,6,10,49-68,5,12,Knebel,Adleman,,3:46,N,"38,256",-
+118,"Sunday, Aug 13",boxscore,CIN,@,MIL,L,4,7,,49-69,5,13,Garza,Romano,Knebel,3:07,D,"43,248",--
+119,"Monday, Aug 14",boxscore,CIN,@,CHC,L,5,15,,49-70,5,14,Quintana,Wojciechowski,,3:45,N,"40,263",---
+120,"Tuesday, Aug 15",boxscore,CIN,@,CHC,W,2,1,,50-70,5,13,Lorenzen,Strop,Iglesias,3:04,N,"36,698",+
+121,"Wednesday, Aug 16",boxscore,CIN,@,CHC,L-wo,6,7,,50-71,5,14,Davis,Peralta,,3:35,N,"37,021",-
+122,"Thursday, Aug 17",boxscore,CIN,@,CHC,W,13,10,,51-71,5,13,Storen,Grimm,Iglesias,3:45,D,"38,675",+
+123,"Friday, Aug 18",boxscore,CIN,@,ATL,W,5,3,,52-71,5,13,Romano,Dickey,Iglesias,3:09,N,"31,174",++
+124,"Saturday, Aug 19",boxscore,CIN,@,ATL,W,11,8,,53-71,5,13,Stephenson,Teheran,,3:35,N,"39,317",+++
+125,"Sunday, Aug 20",boxscore,CIN,@,ATL,L,1,8,,53-72,5,14,Newcomb,Castillo,,3:11,D,"25,758",-
+126,"Tuesday, Aug 22",boxscore,CIN,,CHC,L,9,13,,53-73,5,15,Rondon,Peralta,,4:04,N,"16,467",--
+127,"Wednesday, Aug 23",boxscore,CIN,,CHC,L,3,9,,53-74,5,16,Montgomery,Wojciechowski,,2:55,N,"15,355",---
+128,"Thursday, Aug 24",boxscore,CIN,,CHC,W,4,2,,54-74,5,15,Lorenzen,Strop,Iglesias,2:47,N,"18,191",+
+129,"Friday, Aug 25",boxscore,CIN,,PIT,W,9,5,,55-74,5,14,Stephenson,Nova,,3:35,N,"20,561",++
+130,"Saturday, Aug 26",boxscore,CIN,,PIT,L,0,1,,55-75,5,15,Cole,Castillo,Rivero,2:28,N,"35,259",-
+131,"Sunday, Aug 27",boxscore,CIN,,PIT,L,2,5,,55-76,5,15,Schugel,Mahle,Rivero,3:18,D,"26,155",--
+132,"Tuesday, Aug 29",boxscore,CIN,,NYM,W,14,4,,56-76,5,15.5,Romano,Flexen,,3:30,N,"12,946",+
+133,"Wednesday, Aug 30",boxscore,CIN,,NYM,L,0,2,,56-77,5,16.5,Montero,Bailey,Ramos,2:27,N,"12,491",-
+134,"Thursday, Aug 31",boxscore,CIN,,NYM,W,7,2,,57-77,5,16.5,Stephenson,deGrom,,2:42,D,"13,634",+
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+135,"Friday, Sep 1",boxscore,CIN,@,PIT,W,7,3,,58-77,5,16.5,Wojciechowski,Cole,,3:00,N,"23,569",++
+136,"Saturday, Sep 2",boxscore,CIN,@,PIT,L,0,5,,58-78,5,17.5,Schugel,Lorenzen,,2:53,N,"23,529",-
+137,"Sunday, Sep 3",boxscore,CIN,@,PIT,L,1,3,,58-79,5,17.5,Williams,Romano,Rivero,2:49,D,"24,474",--
+138,"Monday, Sep 4",boxscore,CIN,,MIL,W-wo,5,4,,59-79,5,16.5,Iglesias,Hader,,3:03,D,"22,403",+
+139,"Tuesday, Sep 5",boxscore,CIN,,MIL,W,9,3,,60-79,5,15.5,Stephenson,Davies,Iglesias,3:26,N,"12,135",++
+140,"Wednesday, Sep 6",boxscore,CIN,,MIL,W,7,1,,61-79,5,15.5,Castillo,Garza,,2:44,D,"12,626",+++
+141,"Thursday, Sep 7",boxscore,CIN,@,NYM,L,2,7,,61-80,5,16.5,Harvey,Mahle,,2:38,N,"21,274",-
+142,"Friday, Sep 8",boxscore,CIN,@,NYM,L,1,5,,61-81,5,16.5,Lugo,Garrett,Ramos,2:42,N,"25,864",--
+143,"Saturday, Sep 9",boxscore,CIN,@,NYM,L,1,6,,61-82,5,16.5,Montero,Bailey,,2:56,N,"30,661",---
+144,"Sunday, Sep 10",boxscore,CIN,@,NYM,W,10,5,,62-82,5,15.5,Stephens,Familia,Iglesias,3:38,D,"27,590",+
+145,"Tuesday, Sep 12",boxscore,CIN,@,STL,L,4,13,,62-83,5,16.5,Lynn,Stephenson,,3:04,N,"40,030",-
+146,"Wednesday, Sep 13",boxscore,CIN,@,STL,W,6,0,,63-83,5,16.5,Mahle,Flaherty,,2:40,N,"40,124",+
+147,"Thursday, Sep 14",boxscore,CIN,@,STL,L,2,5,,63-84,5,17.5,Weaver,Garrett,,2:50,D,"40,230",-
+148,"Friday, Sep 15",boxscore,CIN,,PIT,W,4,2,,64-84,5,17.5,Bailey,Kuhl,Iglesias,3:14,N,"17,625",+
+149,"Saturday, Sep 16",boxscore,CIN,,PIT,W,2,1,,65-84,5,17.5,Romano,Nova,Reed,2:23,D,"25,685",++
+150,"Sunday, Sep 17",boxscore,CIN,,PIT,W,5,2,,66-84,5,17.5,Stephenson,Cole,Lorenzen,2:39,D,"22,228",+++
+151,"Tuesday, Sep 19",boxscore,CIN,,STL,L,7,8,10,66-85,5,18.5,Nicasio,Adleman,Lyons,3:23,N,"17,165",-
+152,"Wednesday, Sep 20",boxscore,CIN,,STL,L,2,9,,66-86,5,18.5,Weaver,Davis,,2:47,N,"12,903",--
+153,"Thursday, Sep 21",boxscore,CIN,,STL,L,5,8,,66-87,5,19.5,Martinez,Bailey,,3:12,N,"14,903",---
+154,"Friday, Sep 22",boxscore,CIN,,BOS,L,4,5,,66-88,5,20.5,Price,Romano,Kimbrel,2:45,N,"23,463",----
+155,"Saturday, Sep 23",boxscore,CIN,,BOS,L,0,5,,66-89,5,20.5,Rodriguez,Stephenson,,2:51,D,"36,076",-----
+156,"Sunday, Sep 24",boxscore,CIN,,BOS,L,4,5,,66-90,5,21.5,Scott,Iglesias,Kimbrel,3:11,D,"25,545",------
+157,"Tuesday, Sep 26",preview,CIN,@,MIL,7:40 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+158,"Wednesday, Sep 27",preview,CIN,@,MIL,8:10 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+159,"Thursday, Sep 28",preview,CIN,@,MIL,4:10 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+160,"Friday, Sep 29",preview,CIN,@,CHC,2:20 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+161,"Saturday, Sep 30",preview,CIN,@,CHC,4:05 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+162,"Sunday, Oct 1",preview,CIN,@,CHC,3:20 PM,,,"Game Preview, Matchups, and Tickets",,,,,,,,,,
+Gm#,Date,,Tm,,Opp,,,,,,,,,,,,,,D/N
